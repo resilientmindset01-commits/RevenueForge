@@ -58,10 +58,10 @@ WHAT THE AUDIT FOUND, by matching each card against this file:
     as a direct venture."
   Both are recorded below as OFF-PORTFOLIO on the authority of their own FIT lines.
   That is transcription, not a new judgment.
-  * koerneroffice-ai-business-models -- the card reads "FIT: HIGH / most
-    portfolio-relevant model on either menu." THIS IS THE ONE THAT NEEDS AN OPERATOR
-    GO. A HIGH-fit card sitting unlogged for ten weeks is the most expensive item in
-    the queue, because it is the one that was worth acting on.
+  * koerneroffice-ai-business-models -- SEE THE CORRECTION BELOW. This bullet claimed
+    it needed an operator GO. It did not: the card records its own graduation on
+    2026-06-29 and the product has been built since 2026-07-09. What is open is a
+    date, not a ruling.
 - NOT MODEL CARDS AT ALL (3). making-money-with-claude-thread, rclaudeai-week-sweep
   and showcase-megathread-signals are SOURCE SWEEPS -- market signal logs, not models
   with a FIT score to give. They will never drain under this file's rules because
@@ -83,11 +83,46 @@ Agent-as-a-service / automation agency: sell the labour, not the tool. The card 
 it off-portfolio as a direct venture on the grounds that there is no existing SMB
 client base to sell into. Logged, not pursued.
 
-### OPEN FOR THE OPERATOR: koerneroffice-ai-business-models.md
-Package subject-matter expertise as a stack of Claude skills and sell that. The card
-scores it HIGH and calls it the most portfolio-relevant model on either menu, which
-makes it the only queue item whose delay has a real cost. It needs a GRADUATE / DEDUP
-/ NO-FIT ruling, and that ruling is not one an audit can make.
+### CORRECTED 2026-09-09: koerneroffice-ai-business-models.md was NEVER awaiting a ruling
+The entry that stood here asked the operator for a GRADUATE / DEDUP / NO-FIT ruling on
+Card 1. That request was wrong, and it was wrong because the audit read the card's FIT
+line and stopped one sentence short. The next sentence says:
+
+    GRADUATED 2026-06-29 -> VentureForge/intake/pending/forge-ip-claude-skill-pack.md
+
+So it was graduated ten weeks ago. Asking for the ruling again invented a decision that
+had already been made, and parked a built product behind it.
+
+WHAT IS ACTUALLY TRUE, verified on disk:
+- The graduated brief DOES NOT EXIST. VentureForge/intake/pending/ contains only
+  _TEMPLATE.md. The graduation was recorded in the card and never landed at its
+  destination, and nothing checked the link.
+- The product was built anyway. `forge-skill-pack` holds the Claude Code Power Pack --
+  landing.html, SELL-PLAYBOOK.md, LAUNCH-GUIDE.md, launch-posts.md, a MailerLite
+  5-email funnel and the packaged zip. `forge-skill-pack-free` holds the free
+  lead-magnet kit with its own index.html and vercel.json. Both last touched
+  2026-07-09.
+- `forge-skill-pack/GOALS-additions.md`, dated 2026-07-01, is paste-ready text for
+  GOALS.md with the venture named and TWO BLANK DATES. Both blanks are still blank.
+
+So nothing was ever blocked on a fit judgment. It was blocked on a date.
+
+THE COST OF THE GAP. GOALS-additions.md ends "keep the clarity bar first if the two
+compete." The clarity bar was the Physics Wallah head-to-head, retired unmet today
+because its instrument -- a panel of student raters -- never existed. A built product
+was therefore deprioritised in favour of a milestone that could not be reached. Neither
+document could see the other, so neither was wrong on its own terms.
+
+WHAT IS ACTUALLY OPEN: one date. Adopt the venture in GOALS.md and set either the
+shipped-asset milestone or the revenue milestone from GOALS-additions.md. That is a
+scheduling decision on finished work, not a ruling on an idea.
+
+THE AUDIT'S OWN LESSON. This file's PROCESS NOTE below names the failure as a record
+kept faithfully by its most visible measure while the property that mattered drifted.
+The entry that stood here was an instance of it: it trusted the FIT line, which is the
+most visible measure on the card, and never checked whether the graduation it announced
+had a destination. Reading one line further, or opening the named path, would have
+caught it. Check the link, not the label.
 
 ### PROCESS NOTE
 Three of these cards carried a FIT verdict inside them while sitting in a folder whose
