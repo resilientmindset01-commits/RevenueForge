@@ -159,3 +159,10 @@ Operator: "we should not miss any revenue way". A 13-of-41 read was not enough f
   today: 9 NOT A PLAY as shown, 1 GAP (no captions), the rest CARD or GATED or merged into the two playbooks. No new
   playbook: nothing in the 28 beats playbooks 01 and 02 for the operator.
 - Open: JiF1SfP5Yik needs an on-screen read; ACX and Findaway AI-narration rules are unchecked.
+
+## 2026-09-16 -- the two open items closed
+- JiF1SfP5Yik (ten Fiverr gigs): SKIPPED on the operator's "if possible read else skip it". No captions on two tries, the
+  description only numbers the services, and the browser window could not render the video. Two of the ten are
+  indexed through the linked voiceover and ebook videos.
+- AI-narrated audiobooks: rules read at source. ACX prohibits unauthorized text-to-speech or AI narration; Spotify for
+  Authors accepts digital-voice narration for Spotify only. The REVENUE-WAYS line moves from CARD to GATED.

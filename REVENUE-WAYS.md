@@ -6,7 +6,7 @@ way". Rules cited are in PLATFORM-RULES.md. Every creator number behind these li
 
 STATUS: LIVE (operator runs it) | PLAYBOOK (repeatable method written up) | CARD (logged, not yet decided) | FIT or
 OFF (decided for the portfolio) | GATED (workable only inside the named rule) | NOT A PLAY (as shown it breaks a rule
-or deceives; the note says whether an honest version exists) | GAP (not read yet).
+or deceives; the note says whether an honest version exists) | GAP (not read yet) | SKIPPED (tried; not readable).
 
 KEEPING IT COMPLETE: every intake that touches money adds its methods here in the same commit. A new method with no
 matching category opens a new category. Lines are never deleted, only re-statused, so the history of what was
@@ -43,8 +43,9 @@ in intake/pending/ unless marked VF (VentureForge/intake/).
 - AI voiceovers -- NOT A PLAY as shown (MAC QF9YeJ32SkE, 7zU0CNeqQdk): the video says never reveal the AI, and Fiverr
   treats "misrepresentation of AI usage" as a trust breach. Honest version is GATED: stock synthetic voices only, honor
   non-AI requests, never deny AI use.
-- Ten AI Fiverr gigs (list video) -- GAP MAC JiF1SfP5Yik: no captions; its description links the voiceover and ebook
-  videos. Read on screen before calling the list complete.
+- Ten AI Fiverr gigs (list video) -- SKIPPED MAC JiF1SfP5Yik: no captions, the description only numbers the ten
+  services, and an on-screen read was not possible (2026-09-16). Two of the ten are the voiceover and ebook videos,
+  indexed above; the other eight are unknown and probably overlap the gig lines above (UNVERIFIED).
 
 ## 3. Digital products
 - Proven digital product loop: ad-library demand research, upgrade, variants, quiz router, Gumroad, small ad test --
@@ -75,8 +76,9 @@ in intake/pending/ unless marked VF (VentureForge/intake/).
   repetitive books; unchecked tax or finance advice is an accuracy liability (INFERRED).
 - The same books run through "humanizers" to beat AI detectors -- NOT A PLAY as shown (MAC aE6x9_-DBxw): the method is
   concealment.
-- AI-narrated kids audiobooks on ACX or Findaway Voices -- CARD MAC -OThOw6B_vo. ACX and Findaway AI-narration rules
-  NOT checked yet; check before any upload.
+- AI-narrated kids audiobooks -- GATED MAC -OThOw6B_vo. The video's ACX route is closed: "Unauthorized use of
+  text-to-speech, AI, or automated recordings in ACX titles is prohibited." Spotify for Authors accepts digital-voice
+  narration "for distribution on Spotify only", so that route is open, for one store.
 
 ## 5. Content channels (ad revenue)
 - Faceless YouTube storytelling and automation (avatar narrators, scary stories, what-if Shorts, future-city videos) --

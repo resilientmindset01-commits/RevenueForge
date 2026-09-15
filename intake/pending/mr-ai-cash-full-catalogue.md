@@ -43,7 +43,7 @@ channel describe other people's shops, not the creator's own results.
 | 33 | hd5sMZY3rvA | 2025-01-19 | 19K | Automated affiliate offers behind a disguised landing page | NOT A PLAY as shown |
 | 34 | ZQcrYv61PTI | 2025-01-06 | 8K | Resold kids-story pack on Gumroad | NOT A PLAY as shown |
 | 35 | HA5wTOkypv0 | 2024-12-23 | 35K | Temu affiliate links in AI PDFs on SlideShare and Medium | NOT A PLAY as shown |
-| 36 | JiF1SfP5Yik | 2024-12-08 | 119K | Ten AI Fiverr gigs (no captions; title and description only) | GAP |
+| 36 | JiF1SfP5Yik | 2024-12-08 | 119K | Ten AI Fiverr gigs (no captions; title and description only) | SKIPPED |
 | 37 | QF9YeJ32SkE | 2024-11-25 | 16K | AI voiceover gigs with the AI hidden | NOT A PLAY as shown; honest version GATED |
 | 38 | 7zU0CNeqQdk | 2024-11-13 | 36K | AI videos to a Gumroad product, voiceovers, Google ebooks | merged (PLAYBOOK 02 / GATED) |
 | 39 | M9c_KBRAJYg | 2024-11-02 | 71K | Trend-chasing AI ebooks on Google Play Books | GATED |
@@ -59,5 +59,6 @@ channel describe other people's shops, not the creator's own results.
 - Nine methods are NOT A PLAY as shown, because the method itself is concealment or evasion: hiding AI from buyers,
   beating AI detectors, disguising affiliate links, undisclosed CPA links, translating someone else's article, reposting
   other people's viral videos, bot-driven social proof, copying bestselling designs, reselling identical packs.
-- One GAP: JiF1SfP5Yik, "The 10 Easiest Ways to Make Money on Fiverr with AI" (119K views), has no captions. Its
-  description links two of the ten to the voiceover and ebook videos; the other eight need reading on screen.
+- One SKIPPED: JiF1SfP5Yik, "The 10 Easiest Ways to Make Money on Fiverr with AI" (119K views), has no captions, its
+  description only numbers the services, and an on-screen read was not possible (2026-09-16). Two of the ten are the
+  voiceover and ebook videos; the other eight stay unknown. Channel coverage is final: 40 of 41 read, 1 skipped.

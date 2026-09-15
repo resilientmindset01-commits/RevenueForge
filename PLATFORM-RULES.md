@@ -77,6 +77,12 @@ before scoring it in REVENUE-WAYS.md. Rules change: re-read the page before acti
 - A generative AI asset based on an identifiable person needs a model release. Violations may remove content or end
   the account.
 
+## Audiobooks -- ACX and Spotify for Authors (read 2026-09-16)
+- ACX audio submission requirements: "Your submitted audiobook must be narrated by a human unless otherwise authorized:
+  Unauthorized use of text-to-speech, AI, or automated recordings in ACX titles is prohibited."
+- Spotify for Authors: "Spotify for Authors accepts audiobooks produced with digital voice narration (AI narration) for
+  distribution on Spotify only."
+
 ## Copyright in AI output -- US Copyright Office, Copyright and AI Part 2: Copyrightability (2025-01-29)
 - Published 2025-01-29 (copyright.gov). Its conclusion, as reported by several law-firm summaries of the report: prompts
   alone do not give enough human control for the output to be human-authored, so prompt-only output is not
