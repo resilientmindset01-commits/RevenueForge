@@ -146,3 +146,16 @@ Operator instruction: a money-earning forge where any earning method can land. D
   hold.
 - AI fashion influencer on affiliate commission -> NOT A PLAY (disclosure and AI-labelling risk).
 - Verdicts logged here at the moment the card was written, per the PROCESS NOTE above.
+
+## 2026-09-15 -- full coverage: REVENUE-WAYS index, PLATFORM-RULES, all 41 Mr. AI CASH videos
+
+Operator: "we should not miss any revenue way". A 13-of-41 read was not enough for that.
+- REVENUE-WAYS.md opened: every earning method from every source in this repo and VentureForge, in 11 categories, each
+  with a status. Rule: every money intake adds its methods there in the same commit; lines are re-statused, never
+  deleted.
+- PLATFORM-RULES.md opened: CAN-SPAM, FTC disclosure, KDP, Google Play Books, Etsy, Fiverr, YouTube, Spotify, Google
+  Search, Adobe Stock, US Copyright Office, TikTok, Gumroad and Claude rules, quoted from the pages on 2026-09-15.
+- intake/pending/mr-ai-cash-full-catalogue.md: all 41 videos with method and status. Verdict counts across the 28 added
+  today: 9 NOT A PLAY as shown, 1 GAP (no captions), the rest CARD or GATED or merged into the two playbooks. No new
+  playbook: nothing in the 28 beats playbooks 01 and 02 for the operator.
+- Open: JiF1SfP5Yik needs an on-screen read; ACX and Findaway AI-narration rules are unchecked.

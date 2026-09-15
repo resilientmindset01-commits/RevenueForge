@@ -41,6 +41,8 @@ honestly, "does this fit PrepBrix / the forge IP, or is it off-portfolio?"
 - intake/pending/ -- model cards awaiting scoring. First: athcanft-revenue-models.md.
 - playbook/ -- repeatable earning methods distilled across sources: 01-ai-creative-micro-agency.md,
   02-proven-digital-product-loop.md.
+- REVENUE-WAYS.md -- the index of every earning method seen in any source, kept, gated or rejected, so none is lost.
+- PLATFORM-RULES.md -- platform and legal rules read at source, with dates; check a method against it before scoring.
 - (later) models/done/ -- models scored as a real fit, promoted to a VentureForge
   play for the venture they fit.
 

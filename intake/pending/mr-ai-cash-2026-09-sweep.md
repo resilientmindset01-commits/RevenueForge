@@ -23,3 +23,7 @@ affiliate links. Earlier pass: ConceptForge intake/QUEUE.md, 2026-07-05 (8 of 37
 ## Decision
 Logged in DECISIONS.md on 2026-09-15. Both playbooks are held behind the launch hold, except the free demand research
 in playbook/02.
+
+## Full catalogue
+All 41 channel videos are accounted for in intake/pending/mr-ai-cash-full-catalogue.md (added 2026-09-15 after the
+operator's "we should not miss any revenue way"), and every method is indexed in REVENUE-WAYS.md.
