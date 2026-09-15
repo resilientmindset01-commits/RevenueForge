@@ -41,6 +41,14 @@ these. (Operator is sharing distribution accounts -- log them under "Traffic eng
 7. GEO AS A SERVICE -- the "get cited by LLMs" audits (geo-distribution lane); a sellable
    service to businesses.
 
+## EARNING TESTS ADDED 2026-09-15 (RevenueForge now takes any way to earn)
+9. PACK DEMAND LOOP (serves avenue 1) -- playbook/02-proven-digital-product-loop.md. Check which AI-coding products
+   have ads running for weeks and at what price; split the pack into buyer variants behind a one-question quiz; add
+   the Gumroad pixel and a discount code. The research is free and can run now; ads wait on the launch hold.
+10. AI CREATIVE MICRO-AGENCY (a low-ticket form of avenue 6) -- playbook/01-ai-creative-micro-agency.md. One sample
+   package, a portfolio, outreach to businesses already paying for ads. Test locally and in person with permitted
+   photos; cold email to US businesses must meet CAN-SPAM.
+
 ## PRIMARY VENTURE (separate, larger, deferred)
 8. PrepBrix (NEET/JEE education) -- the bigger long-term bet and a far larger audience than the
    dev pack, but DEFERRED behind the clarity milestone in GOALS.md. Its own monetization

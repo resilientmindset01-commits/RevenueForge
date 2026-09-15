@@ -8,6 +8,14 @@ destination, distinct from VentureForge: RevenueForge is the portfolio-wide MENU
 of revenue models; VentureForge EXECUTES one model as a play for a specific
 venture. A model scored as a real fit graduates into a VentureForge play.
 
+## Scope widened 2026-09-15: any way to earn
+Operator instruction: "we need to have money earning forge any way can come to this." RevenueForge is that forge;
+there is no second repo. From this date a method does not need to fit PrepBrix or the forge IP to be logged. Every
+card scores two things: STANDALONE viability (startup cost, time to first dollar, quality of proof, legal and platform
+risk) and portfolio FIT. Methods that repeat across sources become playbook/ files, and a card scored as a real fit
+still graduates to a VentureForge play. What stays out: anything illegal, deceptive, or against a platform's rules,
+however well it pays.
+
 ## Why it is its own lane (the boundary)
 - VentureForge = business PLAYS for ONE venture (PrepBrix NEET/JEE): a specific
   move, an activation plan, a recorded outcome.
@@ -31,6 +39,8 @@ honestly, "does this fit PrepBrix / the forge IP, or is it off-portfolio?"
 
 ## Layout
 - intake/pending/ -- model cards awaiting scoring. First: athcanft-revenue-models.md.
+- playbook/ -- repeatable earning methods distilled across sources: 01-ai-creative-micro-agency.md,
+  02-proven-digital-product-loop.md.
 - (later) models/done/ -- models scored as a real fit, promoted to a VentureForge
   play for the venture they fit.
 

@@ -132,3 +132,17 @@ times on 2026-09-09 in other lanes: a record maintained faithfully by its most v
 measure -- here, file count -- while the property that mattered, decidedness, drifted.
 The cheap guard is to log the verdict HERE at the moment the FIT line is written,
 rather than treating the card as the record.
+
+## 2026-09-15 -- scope widened to any way to earn; Mr. AI CASH re-check
+
+Operator instruction: a money-earning forge where any earning method can land. Decision: RevenueForge is that forge
+(README, "Scope widened"); no new repo. playbook/ added for methods that repeat across sources.
+
+### mr-ai-cash-2026-09-sweep.md -> 2 playbooks, 1 HIGH-fit application, 1 not-a-play
+- AI creative micro-agency -> playbook/01. Standalone: low cost, weak proof. Portfolio: EARNING-MAP avenue 6. The
+  version to test is local, warm or in person, with permitted photos. HELD with the launch.
+- Proven digital product loop -> playbook/02. HIGH FIT: applies to the live Gumroad pack (demand research, variants
+  behind a quiz router, pixel and discount code). The research step is free and can run now; ads wait on the launch
+  hold.
+- AI fashion influencer on affiliate commission -> NOT A PLAY (disclosure and AI-labelling risk).
+- Verdicts logged here at the moment the card was written, per the PROCESS NOTE above.
