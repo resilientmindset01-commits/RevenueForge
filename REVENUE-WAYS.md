@@ -424,7 +424,21 @@ CARD -- services and products that dedup with existing categories
 - "SOLO FOUNDER STACK" (four Claude Projects run as researcher, writer, closer, operator) -- not a way to earn, an
   operating setup; the Projects-do-not-inherit correction went to claude-techniques claude-projects-setup.
 
+## 21. Added 2026-09-17 from @rareZuhair (1 X Article, posts 2026-07-22 to 09-16)
+Source: Zuhair Lakhani, at doublespeed.ai ("automating attention"), which runs "4,000+ mobile devices" and sells AI
+influencer accounts posted by AI agents on physical phones. His pinned post quotes a critic calling it an "a16z-funded
+phone-farm startup". His own site (zuhair.io) is a design portfolio with no writing.
+- AI-INFLUENCER REACTION UGC ON HUNDREDS OF ACCOUNTS -- NOT A PLAY. Pairs stock reaction faces with invented hooks and
+  posts them from "100s of TikTok accounts". That is coordinated inauthentic behaviour (X and Meta, PLATFORM-RULES),
+  AI personas voicing product claims are the FTC fake testimonial case, and TikTok is banned in India. Dedups the
+  ACCOUNT FARMS line in section 15. His "<$0.10 CPMs" is UNVERIFIED.
+- A FAKE INFLUENCER TO DRIVE APP DOWNLOADS (a post he quoted, "100k+ downloads") -- NOT A PLAY, same reasons.
+- HONEST VERSION -- CARD: one real account for your own product, short vertical clips with on-screen text hooks whose
+  claims are true, tested hook by hook. The method is youtube-growth playbook/16.
+- A HOOK-WRITING SKILL OR A REACTION FOOTAGE LIBRARY given away as a lead magnet for an agency -- CARD, dedups the
+  free-kit-to-paid loop in playbook/02. His giveaway is 1,000+ reaction clips (licence terms not checked).
 
+## Not ways, but tools for finding them
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.
 - Complaint mining and marketplace research (MicroAcquire, TrustMRR) -- VF buildercentral-idea-discovery-stack.
 - Signal sweeps without a single model: making-money-with-claude-thread, rclaudeai-week-sweep, showcase-megathread-signals.
