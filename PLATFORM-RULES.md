@@ -110,6 +110,34 @@ The rules that decide whether a comment-to-DM funnel is allowed to send anything
   not helping users." First example: "Using generative AI tools or other similar tools to generate many pages without
   adding value for users".
 
+## Google Search -- link spam (developers.google.com/search/docs/essentials/spam-policies, read 2026-09-16)
+- "Link spam is the practice of creating links to or from a site primarily for the purpose of manipulating search
+  rankings."
+- Named examples that touch common growth advice: "Buying or selling links for ranking purposes", including "Sending
+  someone a product in exchange for them writing about it and including a link"; "Excessive link exchanges ('Link to me
+  and I'll link to you')"; "Using automated programs or services to create links to your site"; "Low-quality directory
+  or bookmark site links"; "Keyword-rich, hidden, or low-quality links embedded in widgets that are distributed across
+  various sites"; "Forum comments with optimized links in the post or signature"; and "Creating low-value content
+  primarily for the purposes of manipulating linking and ranking signals".
+- Consequence for a launch: listing a product on the few directories where buyers look is distribution; submitting to
+  many directories for the links is the named violation. An embeddable free-tool widget must not carry keyword-rich
+  links back.
+- "Expired domain abuse is where an expired domain name is purchased and repurposed primarily to manipulate search
+  rankings by hosting content that provides little to no value to users."
+
+## Wikipedia -- conflict of interest (en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest, read 2026-09-16)
+- Editors with a conflict of interest "are strongly discouraged from editing affected articles directly" and "may
+  propose changes on talk pages". Self-citation is "allowed within reason, but only if it is relevant, conforms to the
+  content policies" and "is not excessive."
+- So replacing a dead citation with a link to your own site is out. The accepted replacement is an archived copy of the
+  original source, or a proposal on the talk page.
+
+## Unsplash -- the Unsplash License (unsplash.com/license, read 2026-09-16)
+- Images can be used "without permission from or attributing the photographer or Unsplash." Prohibited: selling
+  images "without significant modification", and "Compiling images from Unsplash to replicate a similar or competing
+  service".
+- So uploading photos there in the hope of earning links has no footing: nobody who uses them owes you a credit.
+
 ## Adobe Stock -- generative AI content guidelines (last updated Jun 11, 2026)
 - "Created using generative AI tools" checkbox: "Required for all content created with generative AI software."
 - Do not put in prompts, titles or keywords: "Names of artists, real people, or fictional characters", "References to
