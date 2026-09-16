@@ -57,6 +57,16 @@ before scoring it in REVENUE-WAYS.md. Rules change: re-read the page before acti
 - Reused content: repurposing content "without adding significant original commentary, substantive modifications, or
   educational or entertainment value"; disallowed includes "Content that exclusively features readings of other
   materials you did not originally create".
+- The policy now names more buckets than "inauthentic content" alone (support.google.com/youtube/answer/1311392, read
+  2026-09-16): "Generic or repetitive content" is "Content that looks like it's made with a template, or that may feel
+  repetitive to viewers after watching several videos in a row"; "Unsatisfying or off-putting content" is content that
+  "relies heavily on emotionally manipulative formulas, mimics existing formats or stories to a degree that the videos
+  feel interchangeable, or appears designed to shock or surprise viewers"; and "AI personas related to sensitive
+  topics" covers "Channels that use AI-generated personas to deliver information on sensitive topics" such as health,
+  legal, financial or political matters.
+- AI tools are not banned by any of these. The reused-content policy allows AI-generated content where the creator
+  shows "original, authentic insights or perspective", and the unsatisfying-content policy allows AI tools where "the
+  final product must still demonstrate your creative vision". The trigger is template sameness, not the tool.
 
 ## Spotify -- "Spotify Strengthens AI Protections" (newsroom, 2025-09-25)
 - "all music is treated equally, regardless of the tools used to make it."
@@ -90,6 +100,22 @@ before scoring it in REVENUE-WAYS.md. Rules change: re-read the page before acti
   in the last 365 days" or "3 million qualified Shorts views in the last 90 days".
 - The separate Shorts Fund described in 2021-2022 creator videos no longer exists; Shorts revenue now comes through
   the Partner Program.
+- THE BAR DOUBLES ON 1 FEBRUARY 2027 (support.google.com/youtube/answer/12843009, read 2026-09-16). New creators will
+  need "8,000 qualified watch hours in the last 365 days, or 20M qualified Shorts views in the last 90 days, in
+  addition to still needing 1k subscribers". A channel not yet in the program has until 31 Jan 2027 to qualify at the
+  current 4,000-hour / 10M-view bar. "If you are already in YPP, your status is not impacted by this update."
+- STAYING IN also becomes conditional from 1 Feb 2027: at least one of "1,000 qualified watch hours in the past 365
+  days", "1 million qualified Shorts views in the last 90 days", or "2 long-form videos or 5 Shorts uploaded every 90
+  days", with "an extended 90-day window" to recover. Terms must be accepted in Studio "by January 31, 2027" or
+  monetization features stop paying from 1 Feb 2027 until they are accepted.
+
+## YouTube view counting -- the 2026-08-24 split (support.google.com/youtube/answer/2991785, read 2026-09-16)
+- "Beginning August 24, 2026, views are counted the moment a video starts to play across all formats, including
+  Shorts, long-form videos (VOD), and live streams." The public number went up without anything improving.
+- The money did not move with it: "YPP earnings will still be based on 'engaged views' and 'engaged watch hours'.
+  YPP eligibility will still be based on 'qualified views'." Three different metrics, one public number.
+- So a rise in public views after 24 Aug 2026 is not growth, and the gap between public views and engaged views is a
+  read on how many people left in the first seconds. Compare periods on engaged views only.
 
 ## Copyright in AI output -- US Copyright Office, Copyright and AI Part 2: Copyrightability (2025-01-29)
 - Published 2025-01-29 (copyright.gov). Its conclusion, as reported by several law-firm summaries of the report: prompts

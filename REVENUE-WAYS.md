@@ -172,6 +172,68 @@ Rates and benchmarks for these live in playbook/03-creator-rate-card.md. Statuse
 - Equity fundraising as a funding route (150-170 investor meetings to land about ten) -- not an earning method, kept
   as context in category 10.
 
+## 13. Added 2026-09-16 from the vidIQ catalogue (1,230 videos enumerated, 72 read)
+Source: RevenueForge/intake/pending/vidiq-2026-sweep.md and youtube-growth/sources/vidIQ.md. Every payout figure is
+creator-reported or vidIQ's own sample and stays UNVERIFIED; the platform thresholds here were read at
+support.google.com and are in PLATFORM-RULES.md. The whole category is gated by one dated fact: the YouTube Partner
+Program entry bar doubles on 1 February 2027.
+
+Paid by YouTube
+- Long-form ad revenue -- LIVE lane for the PrepBrix channel, not yet qualified. 1,000 subs plus 4,000 qualified
+  watch hours until 31 Jan 2027, then 8,000.
+- Shorts ad revenue as a SEPARATE lane -- FIT/OFF for now. vidIQ state a monetized long-form channel earns nothing
+  on its Shorts without separately holding 10 million Shorts views per 90 days. UNVERIFIED and worth checking before
+  any Shorts-first plan.
+- Live stream and Premiere watch hours -- PLAYBOOK, in youtube-growth/playbook/11. Live is stated to pay twice, on
+  live minutes and on replay minutes, and a Premiere converts concurrent viewing into ordinary views.
+- Back-catalogue evergreen hours -- PLAYBOOK. Costs nothing but leaving old videos public.
+- Higher-CPM niche and audience geography as levers -- CARD. Real, but it asks a NEET channel to change who it
+  serves, which is not on the table.
+
+Paid by viewers (the 500-subscriber fan-funding tier, which arrives long before ad revenue)
+- Channel memberships, Super Chat, Super Thanks, YouTube Shopping -- CARD, and the nearest money on this channel.
+  One creator's first 90 days are reported as 43 dollars of supers plus 14 dollars of memberships, which is the
+  honest scale.
+- Membership perks that cost nothing to make: early access, members-only streams and replays, custom emotes (named
+  as the cheapest perk with the highest perceived value), end-of-video credits, member questions answered on camera.
+
+Paid by brands
+- Sponsorships and integrations, stated to start from a few hundred subscribers -- CARD.
+- Monthly sponsorship retainers at an agreed number of mentions -- CARD.
+- Content production as a service for a brand's own channel, blog or paid ads, where your channel is only the
+  portfolio and no audience is needed -- PLAYBOOK-adjacent, dedups with category 1.
+- Consulting on a brand's YouTube strategy; paid appearances and factory or conference work -- CARD.
+- Free product gifting -- NOT A PLAY on its own; the move is converting it to cash.
+- An influencer marketing agency, and coaching other creators on sponsorships -- CARD, both second-order.
+
+Paid by merchants and buyers
+- Amazon Influencer Program on-site review videos -- CARD, and the only method in the batch needing no YouTube
+  monetization, no audience and no virality: 60 to 90 second reviews posted into the product-page carousel, with
+  commission on the referred cart. Stated ramp 700 dollars in month one to 6,000 a month by month eight
+  (UNVERIFIED). Requires a public social account; no follower minimum is stated.
+- Affiliate links in descriptions -- CARD. Needs advanced features turned on for the channel or the links are not clickable.
+- Search-intent affiliate long-form as the primary model, with ad revenue as the minority slice -- CARD. One
+  operator claims roughly 80 percent of 300,000 dollars a month from affiliate links against about 10 percent from
+  ads, built on a portfolio of about 50 channels where most are expected to fail. The scaled-down version they give
+  is one topic, 50 to 100 long-form videos, then your own course, software or service.
+- Multi-language versions of the same affiliate channel, and faceless channels with hired on-camera hosts -- CARD.
+- Merch, newsletter or blog traffic sent from descriptions -- CARD.
+
+Paid by an audience you own
+- Courses, cohorts, coaching, paid newsletters, consulting, digital products such as presets -- PLAYBOOK, dedups
+  with categories 1 and 3. The transferable point is the stacking: several independent layers on ONE video rather
+  than relying on an ad read.
+- Using a small channel to drive leads to a business you already run -- LIVE in shape, since PrepBrix is exactly
+  that, and it is the case playbook/07 already makes.
+
+Faceless-channel economics, as reported (all UNVERIFIED, all self-reported)
+- A 280,000-subscriber finance channel at about 5,000 dollars a month against a 300,000-subscriber channel at just
+  over 1,000; a 166,000-subscriber chat-compilation channel near 9,000 a month from 30 videos; a 60,000-subscriber
+  channel at 15,000 a month; a 700,000-subscriber sleep-history channel at about 3,500 a month on 2.5-hour videos.
+  The spread is the point: subscriber count does not predict the money, advertiser demand does.
+- The watch-hour arithmetic that follows: 4,000 hours is 24,000 full views of a 10-minute video, or 2,000 full views
+  of a 2-hour video. Run time, not upload count, is the lever on the monetization threshold.
+
 ## Not ways, but tools for finding them
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.
 - Complaint mining and marketplace research (MicroAcquire, TrustMRR) -- VF buildercentral-idea-discovery-stack.
