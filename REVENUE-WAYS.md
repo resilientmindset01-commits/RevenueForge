@@ -337,6 +337,25 @@ Rules cited are in PLATFORM-RULES.md; the two X rules are search-level excerpts 
   coordinated inauthentic behaviour under X's platform manipulation policy, and the same pattern breaks the equivalent
   rules on every major platform.
 
+## 16. Added 2026-09-16 from @JaynitMakwana (4 X Articles, all labelled Paid partnership)
+Source: an AI and creator-economy account (newsletter at waketheai.com). All four articles are sponsored -- three for
+APOB, an AI influencer tool, one for CapCut. Two contain leftover lines from AI-rewriting a sponsor brief ("described
+in the source you shared", "Based on the source article"), and the "0 to 100K views" article gives no numbers at all.
+
+- A TIKTOK AI INFLUENCER ACCOUNT -- NOT A PLAY, and now CLOSED for this operator: the existing verdict (line under
+  category 5, VF shalevhvs-ai-virtual-influencer) stands, and TikTok is banned in India (PLATFORM-RULES, verified).
+  Worth recording the contradiction inside the sponsor's own material: one article advises making the persona "feel
+  like a real creator page" and "Not watching a demo of an AI workflow", while another relays the sponsor's guidance
+  that realistic AI content should be labeled. TikTok requires the label for realistic people.
+- TIKTOK CREATOR REWARDS, TIKTOK SHOP, TIKTOK AFFILIATE -- CLOSED in India. Eligibility recorded in PLATFORM-RULES for
+  completeness.
+- WRITING SPONSORED LONG-FORM ARTICLES FOR AI TOOL COMPANIES -- CARD. The account's own model: labelled paid
+  partnerships, one tool per article, framed as a tutorial. It is the disclosed version of the section 15 launch drops,
+  and the labelling is done correctly here. The visible risk is the one on display: sponsor briefs passed through an AI
+  rewrite keep their seams, and readers notice.
+- "PROMPT BUNDLES" as a digital product, suggested in one article -- already NOT A PLAY on Etsy, which excludes AI
+  prompt bundles by name (category 3).
+
 ## Not ways, but tools for finding them
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.
 - Complaint mining and marketplace research (MicroAcquire, TrustMRR) -- VF buildercentral-idea-discovery-stack.

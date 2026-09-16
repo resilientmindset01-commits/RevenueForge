@@ -194,8 +194,25 @@ The rules that decide whether a comment-to-DM funnel is allowed to send anything
   copyrightable; human selection, arrangement and creative modification can be. Practical effect: a product that is
   raw AI output is hard to protect from copying.
 
+## India -- the TikTok ban (VERIFIED, newsonair.gov.in, read 2026-09-16)
+- Government statement of 23 August 2025: "No order has been issued to lift the ban on TikTok in India." The Ministry
+  of Electronics and Information Technology called claims of unblocking "false and misleading". The ban dates from
+  June 2020.
+- CONSEQUENCE FOR THIS OPERATOR, who is in India: every TikTok earning path -- Creator Rewards, TikTok Shop, TikTok
+  affiliate, a TikTok-first AI influencer -- is closed, and TikTok's own help and Creator Academy pages do not load
+  from here either (checked 2026-09-16), which is why the TikTok rules below stay search-level.
+- CapCut, also a ByteDance product: third-party sites report it blocked in India too. NOT verified against a
+  government source; check before planning anything on it.
+
 ## TikTok -- AI-generated content labels (search-level; re-read before posting)
 - TikTok asks creators to label realistic AI-generated content and offers an AI-generated content label.
+- More detail, still search-level (2026-09-16): the label is required for AI-generated or significantly edited content
+  showing realistic-looking people or scenes; minor edits and clearly artistic styles do not need it. Creators can use
+  the AI-generated content setting or disclose in a caption, watermark or sticker. Using the label to deceive is a
+  Terms of Service violation.
+- Creator Rewards Program eligibility, search-level: 18 or older, at least 10,000 followers and 100,000 video views in
+  the last 30 days, a personal account in good standing in an eligible country; qualifying videos must be original and
+  at least one minute long. Unavailable in India (see the India entry above).
 
 ## Gumroad -- third-party analytics (Gumroad Help Center, via search excerpt; confirm in Settings)
 - Tracking snippets are added under Settings, Third-party analytics, and run on the product page, after purchase, or
