@@ -408,6 +408,14 @@ CARD -- services and products that dedup with existing categories
   transferable part: the free series is the credential, and the paid layer is the specific help the series makes
   people want. For the operator, the same shape already exists as the Claude and agent curriculum (open item 3).
 
+## 19. Added 2026-09-16 from @SeijinJung (2 X Articles)
+- AI MARKETING AGENT SOLD AS SAAS (his company's product, with a 3-day free trial) -- CARD, dedups category 10. His
+  claimed launch: 3.6M views and 9,000+ users in three days (UNVERIFIED).
+- UGC CREATORS PAID WITH A PERFORMANCE BONUS on top of the base fee -- CARD, extends the UGC lines in category 5 and
+  section 14 from the creator's side: a program that pays on results briefs tightly (3-5 hooks, beat sheet, must-say
+  points, CTA, good and bad examples) and scores by hook family, so a creator who can shoot the same day from a
+  one-page brief is the one who earns the bonus.
+
 ## Not ways, but tools for finding them
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.
 - Complaint mining and marketplace research (MicroAcquire, TrustMRR) -- VF buildercentral-idea-discovery-stack.

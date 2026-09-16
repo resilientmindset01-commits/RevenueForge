@@ -49,3 +49,18 @@ this loop supplies the missing steps without new product work:
   lead, a non-coder -- as separate Gumroad pages behind one question.
 - Pixel and discount code (step 6) before any paid test.
 - A capped paid test (step 7) only after the launch hold lifts.
+
+## When the hold lifts: launch readiness
+From Seijin Jung (@SeijinJung), co-founder of Enrich Labs, "Our launch hit 3.6m views on X in 3 days" (X Article,
+2026-04-02). His figures (3.6M views, 9,000+ users, 500+ support tickets in three days) are UNVERIFIED and his product
+is a SaaS agent, not a digital pack; the four lessons transfer:
+1. X AS THE HUB. In his account the launch spread from X to newsletters, Threads, Instagram, YouTube and company Slack
+   channels; the other platforms amplified what started there. The operator's X account is @ResiMindset (EARNING-MAP).
+2. FILM IT YOURSELF, HONESTLY. No agency video: two founders talking to camera, a real demo and the raw screen
+   recording, shot in about two hours. The response favoured authenticity over production value -- the same finding as
+   youtube-growth playbook/01.
+3. PREPARE FOR THE SPIKE WEEKS AHEAD. Raise rate limits with every API and integration partner, stress-test, and have a
+   scaling plan ready before the day. For a Gumroad pack the equivalent is checking delivery, the discount code, the
+   pixel and the free-kit download under load, and knowing Gumroad's own limits before a post can send traffic.
+4. BE THE SUPPORT DESK FOR THE FIRST DAYS. Founders answered tickets personally, got on calls with early users and
+   shipped several fixes a day. The first week's questions are the product roadmap.
