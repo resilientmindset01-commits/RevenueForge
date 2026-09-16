@@ -416,7 +416,15 @@ CARD -- services and products that dedup with existing categories
   points, CTA, good and bad examples) and scores by hook family, so a creator who can shoot the same day from a
   one-page brief is the one who earns the bonus.
 
-## Not ways, but tools for finding them
+## 20. Added 2026-09-17 from @0xrux (6 X Articles read)
+- FACELESS AI-VOICED YOUTUBE IN HIGH-RPM NICHES -- CARD, dedups the faceless lines in category 3 and the
+  faceless-channel economics above. His "$41k/month" channel is not named, and his RPM ranges (finance 15-30, tech and
+  AI news 10-20, business storytelling 12-25 dollars) are UNVERIFIED. One template per video with a cloned voice is the
+  templated-content shape in youtube-growth playbook/08; his script prompt adds nothing playbook/13 does not have.
+- "SOLO FOUNDER STACK" (four Claude Projects run as researcher, writer, closer, operator) -- not a way to earn, an
+  operating setup; the Projects-do-not-inherit correction went to claude-techniques claude-projects-setup.
+
+
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.
 - Complaint mining and marketplace research (MicroAcquire, TrustMRR) -- VF buildercentral-idea-discovery-stack.
 - Signal sweeps without a single model: making-money-with-claude-thread, rclaudeai-week-sweep, showcase-megathread-signals.
