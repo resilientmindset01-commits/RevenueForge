@@ -356,6 +356,50 @@ in the source you shared", "Based on the source article"), and the "0 to 100K vi
 - "PROMPT BUNDLES" as a digital product, suggested in one article -- already NOT A PLAY on Etsy, which excludes AI
   prompt bundles by name (category 3).
 
+## 17. Added 2026-09-16 from @BIGMayrr, "60 Claude Fable 5 Workflows That Make Money While You Sleep" (2026-07-27)
+A listicle: every workflow is a trigger, an agent pipeline and a one-line "verification", with no evidence any of them
+earns. Logged in full under the coverage rule; statuses use the rules already verified in PLATFORM-RULES.md. His
+closing verification prompt is the progress-audit pattern already in claude-techniques fable-5-migration.
+
+NOT A PLAY as written
+- 9 AI-voice audiobook production for ACX -- ACX: "Unauthorized use of text-to-speech, AI, or automated recordings in
+  ACX titles is prohibited."
+- 26 Programmatic SEO pages ("Plumber in [City]", hundreds of pages) -- Google scaled content abuse; a uniqueness score
+  does not change what the policy names.
+- 31 Automated cold DMs to new followers on X -- automated unsolicited DMs sit squarely in X's platform manipulation and
+  spam policy (search-level).
+- 20 "Competitive app clone builder" -- copying a competitor's app to a spec sheet invites store and IP trouble; the
+  honest version is building for a need the low-rated app misses, which is category 10.
+
+GATED by a rule already on file
+- 2 E-book factory for Gumroad, 5 KDP puzzle and activity books -- KDP AI-content disclosure, and the thin-book bar.
+- 3 Faceless YouTube script and storyboard pipeline -- YouTube inauthentic and templated content.
+- 8 Affiliate review digest -- FTC disclosure; he includes it, which is correct.
+- 37 Print-on-demand designs from trends, 39 Etsy and Gumroad digital templates -- Etsy AI disclosure; trademark checks.
+- 25 LinkedIn and Apollo lead scraping plus cold email -- CAN-SPAM for the email; check LinkedIn's own terms on scraping
+  before building (not verified here).
+- 28 Reddit "value posting" with an unbranded solution link -- undisclosed self-promotion breaks most subreddit rules.
+- 50 real estate underwriting decks, 54 tax deduction finder, 55 patent and prior-art reports, 57 contract clause
+  audits -- regulated or professional advice; a licensed reviewer has to sign off, as three of his own entries concede.
+- 24 smart-contract security audits -- liability for a missed exploit.
+
+CARD -- services and products that dedup with existing categories
+- Category 1 (services): 14 code migration service, 15 API SDK generator, 16 bug-fix PR bot, 19 boilerplate
+  customizer, 21 synthetic data for ML, 23 schema migration agent, 27 competitor ad breakdown reports, 29 sponsorship
+  outreach manager, 30 local citation and schema fixer, 32 guest post pitching, 33 marketplace listing optimizer, 35
+  podcast guest booking, 36 review response engine, 40 abandoned-cart email sequences, 42 support ticket resolver,
+  43 persona-based product descriptions, 44 personalized video scripts, 45 inventory reorder predictor, 47 wholesale
+  catalog ingestion, 48 UGC brief generator, 52 grant proposal drafting, 53 competitor intelligence briefs, 56 RFP and
+  Upwork proposals, 58 SaaS valuation reports, 59 ESG report drafting, 60 market research reports.
+- Category 3 (digital products): 1 niche newsletter curator, 6 quiz lead-gen loop (dedups playbook/02's quiz router),
+  7 carousel engine, 10 serial fiction on Substack, 11 cross-platform repurposing with canonical URLs, 12 localization
+  with a back-translation check, 34 hook generator, 49 earnings-report summary newsletter.
+- Category 10 (software): 13 Chrome extensions, 17 no-code site templates, 18 docs portal generator, 22 WordPress
+  plugins.
+- Category 11 (sites): 4 evergreen blog refresh from Search Console (dedups geo-distribution search-playbook section 7).
+- Off-portfolio, logged only: 38 price arbitrage scanner, 41 expiring-domain speculation, 46 dropshipping product
+  finder, 51 DeFi yield alerts (trading-adjacent; the trading lane is separate and paper-only).
+
 ## Not ways, but tools for finding them
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.
 - Complaint mining and marketplace research (MicroAcquire, TrustMRR) -- VF buildercentral-idea-discovery-stack.
