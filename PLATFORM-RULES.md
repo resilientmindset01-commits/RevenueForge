@@ -68,6 +68,37 @@ before scoring it in REVENUE-WAYS.md. Rules change: re-read the page before acti
   shows "original, authentic insights or perspective", and the unsatisfying-content policy allows AI tools where "the
   final product must still demonstrate your creative vision". The trigger is template sameness, not the tool.
 
+## Meta -- DM automation on Instagram and Messenger (developers.facebook.com, read 2026-09-16)
+The rules that decide whether a comment-to-DM funnel is allowed to send anything. Read before building one.
+- THE 24-HOUR WINDOW: "Businesses have up to 24 hours to respond to a user. Messages sent within the 24-hour window
+  may contain promotional content." So the promotional message is fine -- inside the window, after the person acts.
+- WHAT OPENS THE WINDOW, as listed: the user sends a message to the Page; clicks a call-to-action button such as Get
+  Started; clicks a click-to-Messenger ad and starts a conversation; starts a conversation through a plugin; clicks
+  an m.me link with a ref parameter on an existing thread; or REACTS to a message. Each is a user action -- there is
+  no route that begins with the business messaging a stranger.
+- OUTSIDE THE WINDOW you need a message tag, a One-Time Notification, news messaging (registered news pages) or a
+  sponsored message. Message tags "Enable businesses to send important and personally relevant 1:1 updates to users
+  outside the 24-hour standard messaging window."
+- THE HUMAN AGENT TAG IS NOT AN AUTOMATION LOOPHOLE: it "allows businesses to manually respond to user messages
+  within a 7-day period". Manual, by a person. Meta's stated use case is an issue that cannot be resolved inside the
+  standard window, such as the business being closed for the weekend.
+- ENFORCEMENT: misusing message tags "may result in restrictions on your ability to send messages."
+- What this means for a lead-magnet funnel: the comment or the story reply IS the opt-in, the delivery message has to
+  go out inside 24 hours, and any follow-up after that needs either a fresh user action or one of the named
+  exceptions. A sequence that keeps nudging a silent person for days is outside the rules as written.
+- THE COMMENT-TO-DM RULE IN FULL (developers.facebook.com, Instagram private replies, read 2026-09-16). This is the
+  one that decides how the funnel must be built:
+    "Only one message can be sent to the commenter"
+    "The message must be sent within 7 days of the comment was made on the post or reel"
+    "Follow-up messages can only be sent if the recipient responds, and must be sent within 24 hours of the response"
+  So a comment buys exactly ONE message. If that message is just the download link, the conversation is over and
+  there is no lawful way to ask for an email afterwards. The first message has to invite a reply -- a button or a
+  question -- because the REPLY is what opens the 24-hour window in which the email can be requested and the file
+  sent. Manychat teaches exactly this, and on this point they are right.
+- Instagram's own messaging page states the window the same way: "Your app has 24 hours to respond to any message
+  sent from an Instagram user to your app user", with the human-agent tag as the only extension, for human replies.
+  Instagram DM automation also requires a professional account and the instagram_business_manage_messages permission.
+
 ## Spotify -- "Spotify Strengthens AI Protections" (newsroom, 2025-09-25)
 - "all music is treated equally, regardless of the tools used to make it."
 - A music spam filter targets "mass uploads, duplicates, SEO hacks, artificially short track abuse, and other forms of

@@ -73,6 +73,11 @@ Operator already owns 2 of the 4 pieces:
 - FREEBIE = the 3 free skills (add an EMAIL-GATED version to start the list).
 - MISSING: a DEV-niche YouTube channel (AI coding / Claude Code -- kept SEPARATE from
   PrepBrix/NEET) posting 1-2x/week, and an EMAIL LIST + short automated welcome sequence.
+HOW THE LIST ACTUALLY GETS BUILT (added 2026-09-16): playbook/04-dm-lead-capture.md. The
+capture happens inside the DM -- no landing page, no website -- and is constrained by one
+verified Meta rule: a comment buys exactly ONE message, so the first DM must earn a tap
+before the email can be asked for. Email capture is a PAID tier feature; the free tier
+proves the flow but cannot build the list.
 Key facts: views matter, not subscribers; email ~40x social for sales (directional); YouTube
 PAYS you to make content (AdSense at 1k subs + 4k hours). Tools: Gumroad (have) + a free email
 tool (MailerLite / systeme.io free tier). No ads needed.

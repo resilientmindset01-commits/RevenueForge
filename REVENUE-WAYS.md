@@ -234,6 +234,79 @@ Faceless-channel economics, as reported (all UNVERIFIED, all self-reported)
 - The watch-hour arithmetic that follows: 4,000 hours is 24,000 full views of a 10-minute video, or 2,000 full views
   of a 2-hour video. Run time, not upload count, is the lever on the monetization threshold.
 
+## 14. Added 2026-09-16 from the Manychat catalogue (107 videos enumerated, 37 read)
+Source: RevenueForge/intake/pending/manychat-2026-sweep.md, the mechanism in playbook/04-dm-lead-capture.md, and
+youtube-growth/sources/manychat.md. Manychat sells the tool and most of these videos are vendor-selected customer
+stories, so every revenue figure is SELF-REPORTED GROSS with no cost base -- only two people in the whole batch named
+any costs. The Meta rules that constrain all of it are verified and in PLATFORM-RULES.md.
+
+The shape shared by nearly all of them: content -> keyword comment -> DM -> email captured IN the DM -> offer. That is
+the same funnel EARNING-MAP already prescribes; what is new is that the capture happens inside the DM, with no landing
+page and no website.
+
+Paid by a buyer you reached through the DM
+- Low-ticket digital product (guide, template, mini-course, typically 27 to 47 dollars) with the topic taken from the
+  repeat questions under your best post -- PLAYBOOK, dedups with category 3, and the closest fit to the NEET magnets.
+- Higher-ticket course or program built after the low-ticket one has testimonials -- PLAYBOOK, same dedup.
+- A bundle sold by sending the checkout link straight into the DM, no landing page and no call -- CARD. This is the
+  new operational wrinkle: the DM replaces the funnel page.
+- Story-sold product: a two or three slide story set with a keyword reply as the call to action -- CARD.
+- Manual DM selling beside the automation, including voice notes -- CARD, no tooling needed.
+- A recorded masterclass sold as a standalone product, and an evergreen automated webinar that sells a back-end
+  program -- CARD. One operator's masterclass is said to be two years old and still selling.
+- Paid cohort challenge sold to a waitlist BEFORE the content exists, built live during the cohort -- CARD, and the
+  honest version of "validate before you build".
+- Low-ticket funnel with order bumps (37 dollars plus two bumps plus a 197 upsell) -- CARD, needs a back end.
+- Closing high ticket entirely in the DMs with no sales call -- CARD, claimed to work up to about 2,000 to 3,000
+  dollars, above which people want a call.
+
+Paid by brands
+- Inbound brand deals, which need the email written out in the bio because the contact button does not show on
+  desktop -- CARD.
+- Outbound cold-pitched deals with a media kit; hold your rate until they name a budget -- CARD.
+- Creator marketplaces (rates fixed and lower) -- CARD.
+- USAGE RIGHTS as a separate line, priced at 20 to 30 percent of the base rate per month: a 300 dollar reel becomes
+  840 dollars at six months -- CARD, and the most useful pricing detail in the batch.
+- Whitelisting (the brand puts ad money behind your post) and exclusivity, both billable separately -- CARD.
+- Long-term partnerships from a first deal that performed -- CARD.
+- Gifted product for free -- NOT A PLAY, and named in the source as the reason small creators get underpaid.
+- UGC: content the brand posts, not you. Needs a media kit of samples rather than a following; also as a monthly
+  retainer, and as scripted footage for the brand's paid ads -- CARD, dedups with category 1.
+
+Paid by merchants and platforms
+- Amazon Associates, TikTok Shop affiliate commissions, direct brand affiliate programs at 10 to 20 percent, and a
+  brand paying extra to boost a video that already converts -- CARD.
+- Newsletter ad-network placements (Beehiiv) where other newsletters pay for a banner click -- CARD, needs a list
+  first, which is the point of this whole category.
+- Software affiliate commissions from tools you already use -- CARD.
+- Instagram Reels bonus (invitation only, cannot be applied for), TikTok Creator Fund, YouTube Partner Program --
+  GATED, and the source's own verdict on Instagram payouts is "pennies per view".
+
+Reselling the tool itself
+- MANYCHAT PARTNER PROGRAM -- CARD, and the only CONTRACTUAL numbers in the batch rather than marketing: 30 percent
+  commission, 40 percent after 30 sales, 50 percent after 200, paid on the referral's plan for 12 months,
+  withdrawable 30 days after the referral goes Pro. Plus a 50 dollar guaranteed bonus per qualifying 30 to 120
+  second video or blog post submitted under Challenges, and a monthly rewards pool up to 1,000 dollars.
+- Baking the tool into a course at a per-student fee, bundling setup into an agency package, or one YouTube tutorial
+  earning recurring affiliate commission -- CARD. These dedup with categories 1 and 3 but the recurring 12-month
+  commission is a different economic shape from a one-off sale.
+
+Agency and service work built on the DM funnel
+- Productized agency retainer sold as an outcome rather than a menu -- CARD, dedups with category 1.
+- Repositioning an existing offer to be outcome-driven and raising the price -- CARD, costs nothing but a rewrite.
+- Coaching other agency owners from your own tracked results -- CARD.
+- Working as an appointment setter in someone else's DMs -- CARD, a job rather than a business; one operator claims
+  some setters earn over 10,000 dollars a month.
+- Building an AI product that replaces human setters -- CARD, and named by that operator as what he would build from
+  scratch today.
+- Running ads for local businesses as freelance work -- CARD, dedups with category 1.
+
+The one piece of conversion arithmetic worth testing (UNVERIFIED, one operator)
+1,000 dollars of Meta ad spend on a manual engagement campaign with message destinations gives about 50 leads at
+roughly 20 dollars each, about 10 booked calls at a 20 percent lead-to-booking rate, and 2 to 3 closes at 20 to 30
+percent, against an offer around 3,000 dollars a month. Also from the same operator, against the usual speed-to-lead
+advice: a deliberate 10 to 20 second delay before the automated reply, so the DM does not read as a bot.
+
 ## Not ways, but tools for finding them
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.
 - Complaint mining and marketplace research (MicroAcquire, TrustMRR) -- VF buildercentral-idea-discovery-stack.
