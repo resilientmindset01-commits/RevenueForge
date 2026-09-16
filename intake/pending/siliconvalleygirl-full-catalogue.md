@@ -5,8 +5,13 @@ Enumerated 2026-09-16 straight from the channel's own listing (369 long videos p
 count). Triaged by title and description, then every video with a concrete method or real data was read in full.
 
 ## Coverage
-- 430 accounted for. 159 rated high value; 149 of those read from full transcripts (6 had been read on 2026-06-27),
-  2 could not be read (V_9A01dz-ks and z_hjM7shpLg return no usable captions).
+- 430 accounted for. 159 rated high value; 149 of those read from full transcripts (6 had been read on 2026-06-27).
+- The last 2 are closed as SKIPPED after a retry on 2026-09-16: z_hjM7shpLg ("11 Digital Products that Generate at
+  Least $10,000 a Month", 2020-09-19) has no caption track at all, and V_9A01dz-ks ("8 high-paying jobs you can learn
+  and do from home", 2021-01-30) returns only a machine-translated Vietnamese track that is incoherent in any
+  language. Both topics are covered by sibling videos that were read in full: the digital-product line by
+  _TYSBmlDqAM and E7h4hakE9ow, the work-from-home job list by 47imVKwX2_U, whose rate table is in the rate card. No
+  method is missing from the index because of them.
 - 122 medium (interviews likely to hold some method), 100 low (predictions and mindset), 52 off-topic (travel, cars,
   house tours, family). None of those were transcribed; they are logged in the triage files, not here.
 - Cost: 149 transcripts at 5 vidiq credits each.
