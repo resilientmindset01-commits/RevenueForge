@@ -400,6 +400,14 @@ CARD -- services and products that dedup with existing categories
 - Off-portfolio, logged only: 38 price arbitrage scanner, 41 expiring-domain speculation, 46 dropshipping product
   finder, 51 DeFi yield alerts (trading-adjacent; the trading lane is separate and paper-only).
 
+## 18. Added 2026-09-16 from @system_monarch (20 X Articles read)
+- SENIOR-EXPERT EDUCATOR FUNNEL -- CARD, dedups the coaching and course lines in category 3. A principal engineer
+  publishes long free series on X (a 25-day scaling series; one article at 608K views, another at 200K), and each
+  career article routes to a paid system-design fundamentals guide on a personal site and paid 1:1 calls on topmate.io
+  for switching, interview preparation and levelling. No prices are published anywhere in the 20 articles. The
+  transferable part: the free series is the credential, and the paid layer is the specific help the series makes
+  people want. For the operator, the same shape already exists as the Claude and agent curriculum (open item 3).
+
 ## Not ways, but tools for finding them
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.
 - Complaint mining and marketplace research (MicroAcquire, TrustMRR) -- VF buildercentral-idea-discovery-stack.
