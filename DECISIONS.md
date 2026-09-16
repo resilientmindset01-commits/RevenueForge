@@ -166,3 +166,18 @@ Operator: "we should not miss any revenue way". A 13-of-41 read was not enough f
   indexed through the linked voiceover and ebook videos.
 - AI-narrated audiobooks: rules read at source. ACX prohibits unauthorized text-to-speech or AI narration; Spotify for
   Authors accepts digital-voice narration for Spotify only. The REVENUE-WAYS line moves from CARD to GATED.
+
+## 2026-09-16 -- Silicon Valley Girl: 430 videos catalogued, 149 read
+
+Operator supplied the channel. Coverage rule applied in full: every video accounted for, 159 rated high value and
+149 of those read from transcripts (2 have no usable captions), at 5 credits each.
+- The channel's real value is her own operating numbers, not the interviews. Those are now in
+  playbook/03-creator-rate-card.md (what she pays, what she charges, platform economics, one full product P&L).
+- REVENUE-WAYS.md gains a dated section 12 with the ways this sweep added, including two NOT A PLAY entries
+  (mile arbitrage, VPN survey apps).
+- PLATFORM-RULES.md gains the current YouTube Partner Program thresholds, which retire the Shorts Fund economics
+  quoted in her 2021-2022 videos.
+- Other lanes took the rest: youtube-growth (creator economics), CareerForge (AI-era hiring), geo-distribution
+  (answer-engine visibility), agent-engineering (progressive autonomy).
+- Nothing from this channel graduates to a VentureForge play. The methods that are both legal and proven here are
+  ones the estate already holds.

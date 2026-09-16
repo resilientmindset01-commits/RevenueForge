@@ -83,6 +83,14 @@ before scoring it in REVENUE-WAYS.md. Rules change: re-read the page before acti
 - Spotify for Authors: "Spotify for Authors accepts audiobooks produced with digital voice narration (AI narration) for
   distribution on Spotify only."
 
+## YouTube Partner Program thresholds (support.google.com/youtube/answer/72857, read 2026-09-16)
+- Ad revenue: "1,000 subscribers" plus either "4,000 qualified watch hours on long form videos in the last 365 days"
+  or "10 million qualified Shorts views in the last 90 days".
+- Channel memberships (fan funding): "500 subscribers" plus either "3,000 qualified watch hours on long form videos
+  in the last 365 days" or "3 million qualified Shorts views in the last 90 days".
+- The separate Shorts Fund described in 2021-2022 creator videos no longer exists; Shorts revenue now comes through
+  the Partner Program.
+
 ## Copyright in AI output -- US Copyright Office, Copyright and AI Part 2: Copyrightability (2025-01-29)
 - Published 2025-01-29 (copyright.gov). Its conclusion, as reported by several law-firm summaries of the report: prompts
   alone do not give enough human control for the output to be human-authored, so prompt-only output is not

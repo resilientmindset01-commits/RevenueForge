@@ -136,6 +136,42 @@ in intake/pending/ unless marked VF (VentureForge/intake/).
   names generating many pages with AI "without adding value for users" as scaled content abuse.
 - Pinterest content arbitrage feeding a lead magnet and CPA offer -- CARD MAC QIUW3t4aTTE. CPA and affiliate rules apply.
 
+## 12. Added 2026-09-16 from the Silicon Valley Girl catalogue (430 videos, 149 read)
+Rates and benchmarks for these live in playbook/03-creator-rate-card.md. Statuses use the legend above.
+- Creator services sold to other creators: channel management, thumbnail design, clip editing, sales-funnel building,
+  email-list building, and a "creator sales manager" who takes 10-20% of the brand revenue they close -- CARD. The
+  buyer is a creator with money and no time; the first client comes from a free sample of the work.
+- UGC videos for brands through marketplaces (Collabstr, Aspire, JoinBrands) -- CARD, priced in the rate card.
+- Voice-clone marketplace royalties on ElevenLabs: license your recorded voice and earn when others use it --
+  GATED. Vendor-reported payouts of $5M to a community of nearly 10,000 voices, so the average is small; voice
+  cloning also carries impersonation risk, and Fiverr bans selling a voice you have no rights to.
+- Voice agents for local businesses that have no online booking (dentists, clinics, mechanics) -- CARD, dedups with
+  the voice-receptionist line in category 1.
+- Stock footage and photo contribution -- CARD, dated; one contributor cited at $2,000-3,000 a month, scaled by
+  paying other photographers per shot.
+- Remote micro-work with published rates (bookkeeping, transcription, proofreading, UX testing, virtual assistance)
+  -- CARD, useful mainly as the buy side of the rate card.
+- Physical lead-magnet product with an upsell ladder (a $49 planner into a $150 course into a $2,000 trip) -- CARD
+  with a full P&L: $25,000 revenue, ~$13,000 cost, ~$7,000 profit on 500 units. Her own verdict: not worth it.
+- Webinar launch funnel: a dated launch, a 30-day public warm-up into a closed list, a live session with a
+  webinar-only price, then a short enrolment window at a higher price -- CARD, $67,577 mid-launch on $400 seats.
+- Paid-ads-funded digital product funnel to a social audience (not organic reach) -- CARD; she names retargeted ads
+  as her largest revenue source.
+- Storage space rental, car-wrap advertising, and bank sign-up bonuses -- CARD, small and local; the storage figure
+  is unsourced.
+- Airline-mile arbitrage: buy unused miles at a discount, book award tickets, resell at a markup -- NOT A PLAY.
+  Reselling award tickets breaks frequent-flyer terms.
+- Survey and task apps reached through a VPN to appear US-based -- NOT A PLAY. That breaks the apps' own terms.
+- AI service menu with prices (legal assistant, podcast production, CEO ghostwriting, e-signature replacement,
+  design management, influencer campaign manager) -- CARD, proposed rather than proven; the legal-assistant idea
+  brushes unauthorized practice of law.
+- Boring-industry AI services ranked by ease and value (local marketing, home services, property management,
+  bookkeeping, freight, dental and medical billing) -- CARD, dedups with category 1; regulated fields need a licence
+  check the source skips.
+- Telegram mini-apps and bots on subscription, website flipping, and drop-servicing -- CARD, thin evidence.
+- Equity fundraising as a funding route (150-170 investor meetings to land about ten) -- not an earning method, kept
+  as context in category 10.
+
 ## Not ways, but tools for finding them
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.
 - Complaint mining and marketplace research (MicroAcquire, TrustMRR) -- VF buildercentral-idea-discovery-stack.
