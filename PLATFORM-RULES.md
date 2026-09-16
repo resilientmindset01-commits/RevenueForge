@@ -99,6 +99,18 @@ The rules that decide whether a comment-to-DM funnel is allowed to send anything
   sent from an Instagram user to your app user", with the human-agent tag as the only extension, for human replies.
   Instagram DM automation also requires a professional account and the instagram_business_manage_messages permission.
 
+## X -- paid partnerships and platform manipulation (SEARCH-LEVEL; help.x.com refuses fetches, re-read in a browser before relying on it)
+- Paid partnerships policy (help.x.com/en/rules-and-policies/paid-partnerships-policy, via search excerpts 2026-09-16):
+  posts with commercial intent require a disclosure, including own-brand posts by someone with a commercial interest;
+  X provides a built-in "Paid Partnership" label. Paid partnerships are reported as prohibited for adult and sexual
+  products, alcohol, dating, drugs, pharmaceuticals, health and wellness supplements, weight-loss products, tobacco,
+  weapons, and political or social-issue content; crypto and gambling are reported as allowed except in the EU, UK and
+  Australia.
+- Platform manipulation and spam policy (via search excerpts 2026-09-16): coordinating multiple accounts to
+  artificially boost engagement or trends, exchanging engagement, and posting the same or substantially similar content
+  from multiple accounts -- even accounts you own -- are prohibited; penalties run from reduced reach and locks to
+  permanent suspension.
+
 ## Spotify -- "Spotify Strengthens AI Protections" (newsroom, 2025-09-25)
 - "all music is treated equally, regardless of the tools used to make it."
 - A music spam filter targets "mass uploads, duplicates, SEO hacks, artificially short track abuse, and other forms of

@@ -307,6 +307,36 @@ roughly 20 dollars each, about 10 booked calls at a 20 percent lead-to-booking r
 percent, against an offer around 3,000 dollars a month. Also from the same operator, against the usual speed-to-lead
 advice: a deliberate 10 to 20 second delay before the automated reply, so the DM does not read as a bot.
 
+## 15. Added 2026-09-16 from @txbrraa (36 posts read, 2026-08-26 to 09-15)
+Source: a Spanish-language X account linked to aiscwork.com, a creator-marketing agency for AI startups. The account has
+no original method; what it shows is the BUSINESS MODEL of an amplifier account, which is itself a set of earning ways.
+Rules cited are in PLATFORM-RULES.md; the two X rules are search-level excerpts because X's help pages refuse fetches.
+
+- PAID LAUNCH DROPS THROUGH A CREATOR NETWORK -- GATED. The agency sells three things to AI startups: coordinated
+  30-60 day launch campaigns, monthly growth retainers, and a subscription to its roster ("200+ elite creators, 10M+
+  combined reach", its own claim, no prices published). A creator on such a roster is paid per product post; the
+  account's feed carries the typical output (a phone accessory, a store-search feature, an agent tool, a website
+  builder). GATED by disclosure: X requires disclosure on posts with commercial intent and offers a paid-partnership
+  label, and the FTC treats payment as a material connection that must be obvious. X also bars paid partnerships for
+  drugs, pharmaceuticals and weight-loss products -- the same account ran a GLP-1 prescription promotion in that
+  window, which is the category line in practice.
+- STREAM CLIPPING FOR VIEW BOUNTIES -- CARD. Brands, streamers and creators fund a campaign at a rate per 1,000
+  verified views; anyone can join, cut the long-form source into vertical clips, and post them. Reported rates on
+  Whop Content Rewards run 0.20 to 6 dollars per 1,000 views, about 1 dollar on average (third-party guides,
+  UNVERIFIED). Two constraints that decide whether it pays: the budget is pooled per campaign and stops when spent,
+  and clips must clear review and a minimum view count. The campaign is the rights holder's permission; clipping
+  someone's stream WITHOUT a campaign is YouTube reused content and a copyright problem. Needs no audience -- the
+  closest match to the operator's situation of any method in this section.
+- A CLIPPING TOOL'S "I QUIT MY JOB" TESTIMONIAL -- NOT A METHOD. A first-person post with the vendor's dashboard
+  attached is a launch drop for the tool, not evidence about clipping income.
+- ENGAGEMENT-BAIT CURATION ACCOUNT -- NOT A PLAY as run. Reposting other creators' tutorials as native uploads with
+  "save this" hooks and no credit grows the audience that paid drops are then sold into. His 223K-view post was Danny
+  Why's "Claude Code + YouTube = $62,000/Month" (already indexed under the dannywhy card) re-uploaded without
+  attribution. The honest version -- credited curation with disclosed sponsorships -- is a CARD, and a weak one.
+- ACCOUNT FARMS ("occupy more of the feed" with human-made accounts warmed up in 16+ locations) -- NOT A PLAY. That is
+  coordinated inauthentic behaviour under X's platform manipulation policy, and the same pattern breaks the equivalent
+  rules on every major platform.
+
 ## Not ways, but tools for finding them
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.
 - Complaint mining and marketplace research (MicroAcquire, TrustMRR) -- VF buildercentral-idea-discovery-stack.
