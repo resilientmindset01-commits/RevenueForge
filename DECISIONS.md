@@ -181,3 +181,25 @@ Operator supplied the channel. Coverage rule applied in full: every video accoun
   (answer-engine visibility), agent-engineering (progressive autonomy).
 - Nothing from this channel graduates to a VentureForge play. The methods that are both legal and proven here are
   ones the estate already holds.
+
+## 2026-09-17 -- operator decisions on the decision sheet (DECISION-SHEET-2026-09-17.md)
+Reply: "P=Y, L=B, 1=G, 2=N, 3=H, 4=R, 5=N, 6=H, 7=H" -- every item as recommended.
+- P = SHIP THE UPDATED PACK. Rebuilt 2026-09-17 from the current claude-techniques files (8 skills, 68 KB -> 164 KB):
+  internal curriculum sections and cross-links to skills outside the pack removed, `name:` added to every
+  frontmatter, three descriptions trimmed to the Agent Skills 1,024-character limit (checked at
+  agentskills.io/specification), README's "Read one in 60 seconds" replaced. Zip verified byte-for-byte against the
+  files. OPERATOR STEP: upload forge-skill-pack/claude-code-power-pack.zip to the Gumroad product hvdgsc.
+- L = LIFT THE HOLD FOR NO-SPEND STEPS ONLY. Paid ads and playbook 01 outreach stay held. Free steps: email-gated kit
+  and welcome sequence, demand research, agent self-test of own pages, the written launch posts from the operator's
+  accounts. Check-in on signups and sales 30 days after the first post.
+- 1 mollykeyser-digital-product-funnel -> GRADUATED as "finish the pack funnel" (not a new venture): the missing
+  pieces are the MailerLite welcome sequence and getting free-kit signups into it. Email copy corrected 2026-09-17
+  (it said 3 free skills; the kit has 4).
+- 2 nicksaraev-clarvo-1m-saas-case -> NO FIT. Lessons already kept.
+- 3 patrickdang-1person-claude-business -> HOLD until the operator has free weekdays (needs outreach and calls).
+- 4 richardyu-digital-product-business -> ROUTED to the NEET lane (its inbound file, section "Routed 2026-09-17").
+- 5 sandyleeai-linkedin-crm-cowork -> NO FIT.
+- 6 Amazon Influencer on-site reviews (vidiq-2026-sweep card) -> HOLD. Check program availability in the operator's
+  country before any revisit.
+- 7 Manychat partner program (manychat-2026-sweep card) -> HOLD until an audience that buys Manychat exists.
+Cards 2 and 5 are fully decided and may be cleared from intake/pending by the operator.
