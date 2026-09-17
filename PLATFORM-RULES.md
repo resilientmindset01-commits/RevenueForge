@@ -130,6 +130,15 @@ The rules that decide whether a comment-to-DM funnel is allowed to send anything
   fake accounts and automation used to manipulate how content appears and spreads.
 - CONSEQUENCE: a farm of persona accounts on Instagram or Facebook is this policy, whatever the content.
 
+## Instagram -- Terms of Use, what you can't do (facebook.com/help/instagram/581066165581870, read 2026-09-17)
+- The page was served in the Tamil locale; the clause read, translated: you can't attempt to create accounts or access
+  or collect information in unauthorized ways (the English terms list collecting information "in an automated way"
+  under the same heading), and you can't do anything unlawful, misleading or fraudulent. Re-read the English page in a
+  browser before quoting it word for word.
+- CONSEQUENCE: scraping the followers of other accounts with a browser extension, then messaging them in bulk with an
+  automation tool, is outside the terms on both counts -- separate from Meta's DM automation rules above, which cover
+  replies to people who wrote first.
+
 ## Spotify -- "Spotify Strengthens AI Protections" (newsroom, 2025-09-25)
 - "all music is treated equally, regardless of the tools used to make it."
 - A music spam filter targets "mass uploads, duplicates, SEO hacks, artificially short track abuse, and other forms of

@@ -438,6 +438,25 @@ phone-farm startup". His own site (zuhair.io) is a design portfolio with no writ
 - A HOOK-WRITING SKILL OR A REACTION FOOTAGE LIBRARY given away as a lead magnet for an agency -- CARD, dedups the
   free-kit-to-paid loop in playbook/02. His giveaway is 1,000+ reaction clips (licence terms not checked).
 
+## 22. Added 2026-09-17 from @Drew_code0 (posts 2026-09-08 to 09-17)
+Source: "kieran Drew", "AI & Tech Creator", 53.9K posts, bio sells "X Sponsored Posts, Campaigns, Partnerships" by
+email. No Articles tab, no website. Not the writer Kieran Drew (@ItsKieranDrew) -- same name, different account.
+- "RETIRE WITHIN 10 YEARS" BOOKED-CALLS AGENCY -- NOT A PLAY as shown. Form an LLC, pick markets with cash flow
+  (coaches, agencies, SaaS, consultants), scrape the Instagram followers of 25 sellers with a browser extension
+  (Growman), send 100-200 automated DMs a day (AutoLead AI), sell "10-20 extra sales calls a month" at 5,000 dollars a
+  month or more, deliver by copying the formats of 20-30 top accounts. The scraping and bulk DMs are outside
+  Instagram's terms (PLATFORM-RULES) and dedup line 31 above for X. His "100 DMs = 1 call, 5-7 calls = 1 client" is
+  UNVERIFIED. The honest version -- a productized content retainer sold on booked calls, found through manual,
+  researched outreach -- dedups the productized agency line in category 1.
+- SELLING SPONSORED POSTS FROM A HIGH-VOLUME AI ACCOUNT -- CARD, dedups the sponsorship lines. His feed is mostly
+  product promotion (ElevenLabs, Voiskey, HeyGen, an open-source model) with no Paid Partnership label visible, and
+  the engagement looks inflated: 69 reposts on a 1,481-view post, and "Amazing share" replies from look-alike handles
+  ending in 0 (@Theo_Coder0, @Navid_Tasmim0). Unlabelled paid posts and engagement pods are both X policy problems
+  (PLATFORM-RULES, search-level).
+- "CLAUDE CAN NOW BUILD A YOUTUBE CHANNEL TO MONETIZATION IN 90 DAYS, 100% FREE" -- NOT A METHOD. Posted twice; the
+  thread is seven generic role prompts ("Act as a world-class YouTube strategist ...") with no process of their own.
+  The "BREAKING" framing is false: nothing about Claude changed. The real bar is in PLATFORM-RULES (YPP thresholds).
+
 ## Not ways, but tools for finding them
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.
 - Complaint mining and marketplace research (MicroAcquire, TrustMRR) -- VF buildercentral-idea-discovery-stack.
