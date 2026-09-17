@@ -1,4 +1,4 @@
-# @everestchris6 -- 18 X Articles, 2026-08-01 to 09-15 (sweep card)
+# @everestchris6 -- 36 X Articles, 2026-01-09 to 09-15 (sweep card)
 
 Source: Chris, founder of atonomi.ai. All 18 articles read in full on 2026-09-17 by three parallel readers; raw
 extractions kept out of the repo. Verdicts are in REVENUE-WAYS section 23; this card keeps the per-article detail worth
@@ -25,6 +25,31 @@ reusing. Every number is HIS CLAIM unless marked verified.
 | 09-11 | how to run a b2b dropship agency on autopilot | 13K | Telegram |
 | 09-13 | how to automate lead generation | 184K | Telegram |
 | 09-15 | make money selling to ai agents | 57K | Telegram |
+
+### Added after real-scroll enumeration: the 18 earlier articles (all read)
+| Date | Title | Views | Pitch |
+| --- | --- | --- | --- |
+| 01-09 | how to actually make $10,000/mo selling AI websites to local businesses in 2026 | 2.7K | Unloopa |
+| 01-11 | The $10,000/month Google Sheet method | 1.5K | none |
+| 02-17 | how to sell websites to local businesses with openclaw | 66K | openclaw.unloopa.com |
+| 02-18 | how to build an automated sales system with openclaw | 19K | none |
+| 02-19 | nobody is talking about this OpenClaw business model | 44K | none |
+| 02-21 | how I use OpenClaw to sell websites on autopilot | 300K | none |
+| 02-24 | how to make $250 per day with OpenClaw | 73K | none |
+| 02-26 | You're Using OpenClaw Wrong | 7.6K | none |
+| 03-01 | how my SaaS hit $1k MRR in 24 hours | 29K | Unloopa $39/mo |
+| 03-06 | openclaw + reddit = customers on autopilot | 24K | none |
+| 03-10 | the $100k/mo OpenClaw business - full breakdown | 21K | "dm me" |
+| 03-16 | how to make your first $1 with AI | 27K | none |
+| 03-19 | how i automated customer acquisition with one ai agent | 16K | Adaptive.ai (undisclosed) |
+| 05-14 | the $100m AI opportunity right in front of you | 28K | atonomi booking link |
+| 05-16 | the world is about to change and almost nobody is acting like it | 8K | atonomi booking link |
+| 06-06 | selling AI agents 101 | 19K | none |
+| 06-11 | how to sell ai agents to local businesses (full guide) | 9K | Composio referral |
+| 06-21 | how i made $1,000/day on reddit | 21K | Unloopa |
+Verdicts: REVENUE-WAYS section 23b. Mechanics worth keeping from these: build and test each step as its own small API
+before letting an agent sequence them (02-26); "the models don't know the newest models, so whenever an api is
+involved, go find the current docs yourself and paste them in" (06-11).
 
 ## Reusable mechanics (tool-agnostic)
 - QUALIFY ON MEASURED DATA, NOT ON THE PICTURE: roof pitch, azimuth and usable area from a solar data API, year built and

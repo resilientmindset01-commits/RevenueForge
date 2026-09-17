@@ -520,6 +520,37 @@ US mail and a US business to collect fees; the endpoint play (last line) is the 
   install skills -- CARD, and the best fit here: software only, sells from anywhere, and the design rules are in
   claude-techniques agent-tool-ergonomics. CAUTION: his example endpoints sell scraped owner contact details.
 
+### 23b. The 18 earlier @everestchris6 articles (2026-01-09 to 06-21), found by real-scroll enumeration, all read
+The first pass listed the Articles tab with JavaScript scrolling and X search, which missed everything before 08-01.
+His earlier product is Unloopa ($39/month, his own website-selling tool, not always identified as his); later ones
+promote Adaptive.ai and Composio (composio.link/chris) without disclosure.
+- WEBSITES BUILT BEFORE CONTACT, SOLD ONE-TIME ($500-$1,000) with a 30-second Loom and a "your SEO score is low" opener,
+  outreach by WhatsApp, Instagram, Facebook and email (01-09); a Google Sheet the client edits to change the site
+  (01-11); an OpenClaw Telegram bot that finds leads, builds and emails, closed by phone at $300-$800 (02-17) -- CARD,
+  dedups the pre-built website line above. CAUTION: a manufactured "SEO score" as the hook.
+- AUTOMATED COLD EMAIL with warmed inboxes (5, then 10, then 25 a day; instantly.ai) behind the same offer (02-18), and
+  outreach-as-a-service for B2B companies from warmed domains (03-10) -- CARD, only inside the CAN-SPAM rules
+  (PLATFORM-RULES, FTC guide).
+- SIX-AGENT PIPELINE building job boards, QR menus, booking pages and portfolio sites before contact (02-19, 02-21) --
+  the builds are a CARD; NOT A PLAY as described: a fake "customer video" made with ElevenLabs, Nano Banana Pro and
+  Kling in the pitch (FTC fake testimonial) and cold Twilio SMS to numbers from Google Maps (FCC written consent).
+- PLATFORM AFFILIATE BY DEMO SITE: build the owner a site on Base44 or Wix, cold-text "$20/month if you want to keep
+  it", earn the platform's signup bounty ("$100 per signup", "negotiated $250", his claims) (02-24) -- NOT A PLAY by cold
+  SMS; the honest version (disclosed affiliate link, opted-in contact) is a CARD.
+- LAUNCHING HIS OWN SaaS FROM ONE LINKLESS REDDIT POST, then DMs to a free guide ending in a one-line pitch ("$1k MRR in
+  24 hours", 03-01; elsewhere "$1000 everyday" -- his two accounts of the same launch disagree) -- dedups the Reddit
+  selling lines; NOT A PLAY where it relies on undisclosed promotion.
+- 25 BOUGHT REDDIT ACCOUNTS RUN BY AN AGENT through rotating residential proxies and CAPTCHA-solving APIs (03-06), and a
+  single-account comment agent posting 20-42 promotional comments a day for his tool without disclosure (03-19) -- NOT
+  A PLAY: account sale and content manipulation (Reddit User Agreement and Rule 2, verified), plus bypassing CAPTCHAs.
+- PDF GUIDE FROM YOUR OWN EXPERIENCE sold through helpful Reddit posts, then a $9/month newsletter ("$300 MRR in a couple
+  of weeks") (03-16) -- dedups the guide-and-newsletter line above.
+- AUTOMATE ONE PAINFUL TASK FOR A BORING BUSINESS, then expand: a $99/month tool (30 branded posts, or 50 AI images a
+  month) as the door, custom systems at $3,000-$5,000+/month (a quote voice agent, an invoice dashboard from messy
+  purchase orders), then the same system resold across the industry -- e.g. postcards showing golf carts rendered on a
+  church's own grounds with its logo, "$3,000/mo" plus "$5-10k setup" (05-14, 06-06, 06-11) -- CARD, dedups the
+  productized agency lines. CAUTION: prospects' logos and property photos used in unsolicited mail without permission.
+
 ## 24. Added 2026-09-17 from @Zephyr_hg (144 X Articles catalogued, 94 read)
 Source: "Zephyr", sells Claude courses on Gumroad ("Claude Mastery", "Mastery Bundle", "AI Skills to Cash" at $67
 founding) and a "Run On Claude" membership at $147 a month (zephyr-hq.com). An article a day since 2026-02-04; three
@@ -557,6 +588,82 @@ client or sale shown. The 50 skipped articles were generic "skills worth $X by 2
   operator: real-money trading is off, and each article promotes his paid copy-trading bot (three carry "Paid
   partnership"). The risk and backtest rules were handed to the Trading lane (Trading/FORGE_INBOUND_2026-09-16.md,
   items 6-12). Claimed results ("+$6,840 in 7 weeks", "$1,000 into $14,216") UNVERIFIED.
+
+## 26. Added 2026-09-17 from the watchlist backlog drain (157 X Articles from seven watched sources, all read)
+The real-scroll recount found articles the weekly drain had never listed. Most money content in them dedups lines
+above (Claude services, Skills as products, Polymarket bots in section 25). Three were new:
+- RESEARCH ASSISTANCE FOR FACULTY -- CARD. Help university faculty working on a PhD with code execution, reproducing
+  methods from papers, metric comparisons and literature curation, paid per project (@kmeanskaran, 2026-01-07, from his
+  own freelancing; no prices given). Only as acknowledged technical assistance: writing a thesis or paper for someone
+  to submit as their own is academic misconduct and NOT A PLAY.
+- CORPORATE CLAUDE TEAM WORKSHOPS -- CARD, fits the Claude and agent curriculum (open item 3). A half-day or full-day
+  session moving a team from ask-and-hope prompting to briefs, iteration rounds, Projects with standing context and
+  reusable templates. His prices: "$1,500 for a half day", then "$2,000 for a full workshop", and a "waitlist" of 14
+  companies (@cyrilXBT, UNVERIFIED; a separate list of his quotes $2,000-8,000 a session).
+- PDF ACCESSIBILITY TOOL -- CARD. Convert PDFs into accessible HTML or EPUB with alt text and chart descriptions
+  (PyMuPDF or pdfplumber), sold to institutions or funded by grants rather than as consumer SaaS (@Av1dlive, one line in
+  a list of project ideas; no earnings evidence). CAUTION: any claim of WCAG or Section 508 conformance has to be
+  tested, not asserted.
+NOT A PLAY, from the same drain: an overnight /goal SEO page factory (scaled content abuse), reposting other creators'
+clips (reused content), selling trade signals.
+
+## 27. Added 2026-09-17 from the rest of the backlog drain (251 X Articles from 16 accounts, all read)
+Accounts: eng_khairallah1, startupideaspod, mikenevermiss, jaminball, AnatoliKopadze, tonbistudio, suraj_sharma14,
+TommiPedruzzi, alphabatcher, addyosmani, shreyanshpatni_, alexxgrowth, ataiiam, a16z, DivyanshBh24521, hwchase17. Most
+money content dedups lines above (services menus in 24, workshops in 26, clipping, UGC, micro-SaaS). Every figure is
+the author's claim.
+NEW LINES:
+- SECOND BRAIN ARCHITECT -- CARD. Obsidian plus Claude knowledge-system builds for professionals: about $500 basic,
+  $2,000-5,000 full build, then a retainer. His path: three free builds, a starter kit (vault template, CLAUDE.md, a
+  first-week guide), then the first paid client. Delivery method is claude-techniques research-vault-pipeline.
+  (@eng_khairallah1, 2026-06-01.)
+- AI CONCIERGE RETAINER -- CARD, fits the Claude curriculum (open item 3). Two 45-minute calls a month helping a client
+  use Claude Cowork and build their own skills, $1,200-2,000 a month; the recurring form of the section 26 workshops.
+  (Corey Ganim on @startupideaspod, 2026-07-15.) NOT A PLAY within the same article: raising a build price by $1,000
+  and then "crediting" the $999 assessment against it (a discount manufactured by raising the price first).
+- BULK TAILORED RESUMES AND COVER LETTERS per job description by a parallel agent run -- GATED: rewords only true
+  experience; inventing qualifications misrepresents the candidate to employers. (@eng_khairallah1, 2026-06-04.)
+- MINECRAFT CREATOR ECONOMY, THREE RAILS -- CARD, GATED. Bedrock Marketplace skin packs and worlds through the Partner
+  Program (a claimed 70/30 split; co-publishing with an existing publisher), Java mods on Modrinth for its ad share with
+  Patreon behind them, a niche server selling ranks through Tebex. GATES, INFERRED -- read Mojang's Minecraft Usage
+  Guidelines and EULA before any build (the page did not load for checking 2026-09-17): server perks cosmetic only (his
+  token shop selling tools and boosters is the pay-to-win version); paywalling a mod may count as selling it; buyers are
+  largely minors, so his rank-upsell "psychological hook" is not carried. (@AnatoliKopadze, 2026-04-21.)
+- OFF-PORTFOLIO CARDS, logged for completeness: language-arbitrage SaaS (rebuild a proven English tool natively for
+  another language; r03 2026-01-13); buying a small newsletter ($5,000-20,000, needs capital); a broker for equipment
+  from closing restaurants (15-30 percent fee; local presence, licensing varies); relaunching dormant Product Hunt apps
+  (needs capital); productized mobile QA with the phone-harness repo ($100-500 per client a month). All
+  @startupideaspod.
+NOT A PLAY, with the rule each breaks:
+- PERSONAL CAPITAL AND CRYPTO (real money off): dividend ETFs with covered calls, BTC and stablecoin yield, high-yield
+  cash parking, airdrop farming, tokenized stocks and RWA vaults (@mikenevermiss); DeFi agent yield, Cookie.fun paid
+  posts without disclosure, stablecoin airdrops, Opinion farming and Polymarket arbitrage, insider-wallet copying, a
+  ">97 percent outcomes" bot -- several with referral links (@AnatoliKopadze); Lista DAO and Sui promotions
+  (@suraj_sharma14).
+- CS2 skin arbitrage, CS2 gambling and case-opening affiliates, skin marketplace and VPN affiliates (real-money item
+  trading, gambling, largely minors) (@AnatoliKopadze).
+- A DM template citing "[example or hypothetical]" as a client result (FTC fake testimonial rule) (@eng_khairallah1).
+- An AI influencer "reviewing" a product she never tried (FTC fake reviews rule) (@startupideaspod); AI persona
+  Instagram to Fanvue funnels (adult-adjacent, section 5) (@mikenevermiss).
+- "Auto quant": overnight searches of trading rules and selling the signals (selling signals; the multiple-testing trap
+  the gate backtest already found) (@startupideaspod).
+- Paid crypto due-diligence risk scores for investors (regulated-advice territory, INFERRED); condition-specific
+  nutrition and pet supplement apps without clinicians (health claims); a fake "calibrating your results" onboarding
+  screen (dark pattern) (@startupideaspod).
+- CPM stacking across clipping campaigns that forbid it, and stock images "changed up with AI" (reused content)
+  (@alexxgrowth, who runs Content Rewards).
+- Programmatic "VS" pages at scale (scaled content abuse, section 17 item 26) (@startupideaspod).
+
+## 28. Added 2026-09-17 from @TommiPedruzzi and @alphabatcher (18 X Articles, all read)
+- WIDE EBOOK DISTRIBUTION (Draft2Digital to Apple Books, Kobo and B&N; Payhip; Lulu print on demand) -- GATED: the
+  same title cannot also be in KDP Select (verified, PLATFORM-RULES KDP entry); AI disclosure per store.
+  (@TommiPedruzzi, 2026-01-25.)
+- Everything else from @TommiPedruzzi dedups section 4 (KDP catalogue) and section 3 (Gumroad loop, paid community,
+  webinar funnel). His author reject of 2026-09-15 stands: earnings figures contradict each other across articles, and
+  every piece ends in a Skool community or masterclass with referral links. NOT A PLAY: fully AI-written books uploaded
+  without KDP disclosure; Reddit and Facebook-group "made $X on day 1" posts with a link (Reddit Rule 2).
+- NOT A PLAY from @alphabatcher: an agent World Cup prediction contest paying points per invite (gambling-adjacent,
+  invite code, no label); AI persona reels to Fanvue (section 5). His B2B micro-SaaS build manual dedups section 10.
 
 ## Not ways, but tools for finding them
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.

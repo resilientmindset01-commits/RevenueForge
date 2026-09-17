@@ -21,6 +21,13 @@ before scoring it in REVENUE-WAYS.md. Rules change: re-read the page before acti
   make edits to and republish an existing book through KDP." AI-assisted content needs no disclosure.
 - Separately (Publishers Weekly and KDP forum reporting, September 2023, not re-read at KDP): a limit of three new
   titles per day per account, reviewed periodically.
+- KDP SELECT EXCLUSIVITY (kdp.amazon.com help, "Enroll in KDP Select", read 2026-09-17): "Your Kindle eBook must also
+  be exclusive to the Kindle Store for the KDP Select enrollment period." "During the 90-day enrollment period, the
+  Kindle eBook can only be distributed through KDP and public libraries." "However, you can continue to distribute
+  print, video, audio, or other formats of your title elsewhere." Enrollment renews automatically unless you opt out.
+  Consequence: the same ebook on Gumroad, Payhip or Draft2Digital, or given away as a PDF lead magnet, breaks Select;
+  choose Select or wide per title. Amazon's rules on review copies were NOT re-read; a funnel sending advance copies to
+  friends and family for first reviews stays unverified and is not carried.
 
 ## Google Play Books -- publisher content policies
 - Prohibited: "Content that provides a poor user experience, such as gibberish, nonsensical, or repetitive text that
@@ -272,6 +279,19 @@ The rules that decide whether a comment-to-DM funnel is allowed to send anything
 ## Gumroad -- third-party analytics (Gumroad Help Center, via search excerpt; confirm in Settings)
 - Tracking snippets are added under Settings, Third-party analytics, and run on the product page, after purchase, or
   both.
+
+## Claude -- subscription sign-in in other products (code.claude.com/docs/en/legal-and-compliance, read 2026-09-17)
+- "OAuth authentication is intended exclusively for purchasers of Claude Free, Pro, Max, Team, and Enterprise
+  subscription plans and is designed to support ordinary use of Claude Code and other native Anthropic applications."
+- Developers building products "should use API key authentication". "Anthropic does not permit third-party developers
+  to offer Claude.ai login into their own applications, or to route requests through Free, Pro, or Max plan credentials
+  on behalf of their users." "Anthropic reserves the right to take measures to enforce these restrictions and may do so
+  without prior notice."
+- "Advertised usage limits for Pro and Max plans assume ordinary, individual usage of Claude Code and the Agent SDK."
+- Consequence for plays: an always-on third-party agent (OpenClaw-style) run on a subscription login, or any product
+  that resells or intermediates subscription usage, is outside these terms. Use an API key. A source advising a
+  "separate account" to avoid enforcement (@startupideaspod, 2026-03-19) is advice to evade it and is not carried; its
+  "Some users have been banned" is not on the page.
 
 ## Claude -- connectors and skills (Claude Help Center)
 - Custom connector: Customize > Connectors > "+" > "Add custom connector", paste the remote MCP URL. Free plans are
