@@ -520,6 +520,44 @@ US mail and a US business to collect fees; the endpoint play (last line) is the 
   install skills -- CARD, and the best fit here: software only, sells from anywhere, and the design rules are in
   claude-techniques agent-tool-ergonomics. CAUTION: his example endpoints sell scraped owner contact details.
 
+## 24. Added 2026-09-17 from @Zephyr_hg (144 X Articles catalogued, 94 read)
+Source: "Zephyr", sells Claude courses on Gumroad ("Claude Mastery", "Mastery Bundle", "AI Skills to Cash" at $67
+founding) and a "Run On Claude" membership at $147 a month (zephyr-hq.com). An article a day since 2026-02-04; three
+were paid partnerships with Arcads and two with other tools (Adaptive.ai, PlayerZero). One thesis repeated: a folder, a
+CLAUDE.md brief, connectors and scheduled routines. Every income and price figure below is HIS CLAIM, with no named
+client or sale shown. The 50 skipped articles were generic "skills worth $X by 2027" career forecasts.
+- DONE-FOR-YOU CLAUDE SERVICES ON RETAINER -- CARD, dedups the productized agency and AI operations lines in category 1.
+  His recurring menu: a weekly research or competitor brief ($800 setup + $150/month for a Skill, up to $1,500-$3,000
+  a month as a service), a brand-voice content engine ($1,500 + $200/month, or $2,000-$4,000 a month), a lead
+  researcher ($1,200 + $300/month), inbox and calendar admin ($2,000-$4,000 a month), a live dashboard ($2,500-$5,000
+  build + monthly), a support assistant on the client's documents, a niche setup ($3,000-$5,000 + monthly), Google and
+  Yelp review replies for local businesses ($1,500 + $700/month per location), a lead router, a reply sorter, a
+  vertical "AI partner" for one local industry ($5,000-$8,000 build + $3,000-$6,000/month), fractional ops ($3,000
+  audit / $15,000 build / $12,000 a month).
+- SELLING CLAUDE SKILLS AS PRODUCTS -- CARD. His "11 Skills built in March": four sold (brand voice editor, lead
+  researcher, daily research brief, customer-voice synthesizer from reviews and tickets at $2,000 a project), seven
+  flopped (generic writer, 12-category email triager that drifted, a calendar manager whose integrations broke, an
+  auto-replier that removed human control, a viral-tweet maker, a universal coach, a newsletter editor). The traits he
+  gives the winners are the useful part: ENCODED JUDGMENT (voice samples, decision rubrics, edge cases), A PAINFUL
+  RECURRING TASK, INVISIBLE TO THE BUYER. His launch: a task done by hand 50+ times, the judgment written down, one
+  buyer at half price for a testimonial, then full price. Fits the Claude and agent curriculum (open item 3).
+- LICENSING ONE n8n OR MAKE WORKFLOW to many businesses ($500 setup + $200/month each) -- CARD.
+- EXECUTIVE GHOST-WRITING WITH AI DRAFTS ($2,500-$5,000 a month per executive) -- CARD, dedups the ghost-writing line.
+- AI UGC AD AGENCY RUN FROM SLACK (Claude in Slack plus the Arcads MCP, one channel per client, "$5,000 a month" x 10;
+  paid partnership) -- dedups the UGC agency lines in sections 14 and 23; the same disclosure caution applies.
+- AI JOB ROLES WITH NAMED DUTIES (AI operations, forward-deployed, "AI fluency" roles at $104K-$365K, from postings he
+  quotes) -- not a way to earn here; not verified, not passed to CareerForge.
+- TOOLS, not ways: an offer written as four sentences -- what they get, when, what you need from them, what you will
+  not do; and a 20-minute three-pass exercise -- every request people made of you more than once, everything you built
+  for yourself and still use, circle the overlap. "The first one is never a stranger. It is whoever asked you for the
+  favour in March."
+
+## 25. Added 2026-09-17 from @0xwhrrari, four earlier X Articles on Polymarket bots
+- LATENCY ARBITRAGE, LLM PROBABILITY SCANNERS, WEATHER-MARKET BOTS AND COPY-TRADING ON POLYMARKET -- NOT A PLAY for this
+  operator: real-money trading is off, and each article promotes his paid copy-trading bot (three carry "Paid
+  partnership"). The risk and backtest rules were handed to the Trading lane (Trading/FORGE_INBOUND_2026-09-16.md,
+  items 6-12). Claimed results ("+$6,840 in 7 weeks", "$1,000 into $14,216") UNVERIFIED.
+
 ## Not ways, but tools for finding them
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.
 - Complaint mining and marketplace research (MicroAcquire, TrustMRR) -- VF buildercentral-idea-discovery-stack.
