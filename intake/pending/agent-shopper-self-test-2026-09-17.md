@@ -34,7 +34,10 @@ updates and the checkout link, stopping before any purchase. Plus direct HTTP ch
 - robots.txt (allow all, points to the sitemap), sitemap.xml, llms.txt (a plain-text summary an agent can read:
   contents, price, license, updates, free kit, install, links).
 
-## Needs the operator (in order)
+## Operator decisions 2026-09-17: R=A (30-day refund), S=ResilientMindset (no email published; contact is a reply
+## to a Gumroad receipt). Applied to the landing page FAQ, price box, footer and llms.txt.
+
+## Decided options (kept for the record) and the remaining operator step G
 R. REFUND POLICY -- pick one; it goes on the landing FAQ, llms.txt and the Gumroad description.
    | Option | Text |
    |---|---|
@@ -62,7 +65,7 @@ What is inside:
 
 One-time $29. Single-seat license: use it yourself and on your own projects; no reselling or redistribution.
 Free updates -- the September 2026 update more than doubled the pack.
-[REFUND LINE FROM R]
+30-day refund: if the pack is not useful, reply to your Gumroad receipt within 30 days for a full refund.
 Not affiliated with, endorsed by, or sponsored by Anthropic. Claude is a trademark of Anthropic, PBC.
 
 PASTE-READY, free kit (ngwuyp):
