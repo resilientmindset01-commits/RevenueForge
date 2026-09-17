@@ -457,6 +457,69 @@ email. No Articles tab, no website. Not the writer Kieran Drew (@ItsKieranDrew) 
   thread is seven generic role prompts ("Act as a world-class YouTube strategist ...") with no process of their own.
   The "BREAKING" framing is false: nothing about Claude changed. The real bar is in PLATFORM-RULES (YPP thresholds).
 
+## 23. Added 2026-09-17 from @everestchris6 (18 X Articles, 2026-08-01 to 09-15, all read)
+Source: Chris, founder of atonomi.ai (AI agents for B2B lead generation, postcard campaigns). Every article is a money
+guide with full prompts; two carry "Paid partnership" (Arcads, tracked link) and one more thanks Arcads only in its last
+line; several push Whop referral links with no disclosure; most end in a Telegram group invite. Detail per article in
+intake/pending/everestchris6-2026-sweep.md. Operator note: the postcard and lead-resale plays are US-market and need
+US mail and a US business to collect fees; the endpoint play (last line) is the one that runs from India.
+- AI-RENDER POSTCARDS FOR HIGH-TICKET VISIBLE-RESULT TRADES (pool, solar, roofing, driveways, windows): find qualifying
+  properties from assessor records and roof data, render the finished job onto the owner's own house, mail a postcard
+  with a QR to a per-property quote page. Charge by selling leads, an exclusive monthly retainer per metro, a build fee
+  plus monthly, or about 5% of closed jobs -- CARD. Keep the render labelled "a visualisation and not a quote", no
+  savings figures that cannot be backed. NOT A PLAY: his hail-path targeting of owners "who may not have claimed yet",
+  and selling the same lead to two or three contractors without telling them. The headline "$501,153 in jobs" came from
+  five plain template postcard campaigns, not from the render system.
+- CHRISTMAS LIGHT INSTALLER CAMPAIGNS: street campaigns, a permanent-lighting version, rebooking last season's customers,
+  quotes that never closed, all on an exclusive postcode retainer -- CARD, seasonal (applications by September). NOT A
+  PLAY as described: selling a January list of homeowner enquiries to installers; that is selling personal data about
+  people who asked someone else for a quote.
+- SELLING A GUIDE OR NEWSLETTER TO A SUBREDDIT through free full-method posts and DMs ($9 PDF or $9 a month, "$1,000 a
+  day" claimed) -- NOT A PLAY as shown: bought karma accounts, several warmed accounts per product, hired posters given
+  logins, replies written to sell without saying so (Reddit User Agreement and Rule 2, verified). Honest version, one
+  real account that says what it sells -- CARD, dedups the Reddit line.
+- REDDIT SALES SYSTEM (agent monitors subreddit RSS, keeps community profiles, drafts undisclosed replies you paste) --
+  research half CARD (as a demand tool), selling half NOT A PLAY, same rules.
+- AI-WRITTEN INFO PRODUCT (about 25 pages) validated by a free post, sold through Whop or Stripe, marketed with AI video
+  (Seedance, Remotion) -- CARD, dedups the digital product loop (playbook/02). His AI talking-head clips are meant so
+  "nobody scrolling a reel is going to stop and question it"; label them.
+- "HOW TO ACTUALLY SELL A PRODUCT" -- not a way, a marketing method: one-person profile, a language file of buyers' exact
+  words, two platforms done properly, two versions of every hook or thumbnail. Tool, see the sweep card.
+- DONE-FOR-YOU AI UGC ADS FOR BUSINESSES ALREADY RUNNING ADS (Arcads, paid partnership): prospect from the Meta and
+  TikTok ad libraries, make the finished ad before pitching, upsell variants on retainer, translations and statics --
+  CARD, dedups the UGC agency lines, if the AI actor is not presented as a real customer.
+- AI UGC FOR YOUR OWN PRODUCT: a synthetic "woman in her thirties" saying "i haven't lost a job to slow response since"
+  -- NOT A PLAY: an invented person giving a first-person testimonial is the FTC fake-testimonial case (PLATFORM-RULES).
+- WHOP PARTNER REFERRALS: cold email digital businesses the fee difference, postcard gyms and studios an online revenue
+  line -- CARD. Payout structure verified in part (PLATFORM-RULES: Whop); disclose the referral link.
+- WEBSITES BUILT BEFORE CONTACT for local trades, $200 a month, review-request add-on $99-$199, bundle $250 -- the offer
+  is a CARD, dedups the website agency lines. NOT A PLAY as described: publishing a live site under a business's name
+  before they agreed, and a Playwright bot filing sales pitches into contact forms "because they assume it's a customer".
+  Honest version: a private preview link sent to the owner.
+- REVIEW-REQUEST EMAILS WITH A PERSONALISED IMAGE, sent to every customer (no review gating) -- CARD.
+- NFC REVIEW CARDS AND WINDOW KITS ($50 / $150 / $300) sold by postcard, fulfilled by print-on-demand API -- CARD.
+- WHOP BLUEPRINTS: run one yourself; build one and earn the "10% affiliate cut" when businesses deploy it; stack partner
+  referrals; run ads for onboarded businesses on a monthly retainer through the advertiser role -- CARD, verified in part.
+  NOT A PLAY: deploying unsolicited copies bearing a business's name to pitch them.
+- B2B DROPSHIP BY RENDER (a sidewalk screen, sign, neon or heaters edited into the shop's own photo, a per-shop page,
+  postcard, blind-shipped supplier order, then a monthly screen-content subscription) -- CARD. Caution: his photos come
+  from shops' listings and Instagram without permission.
+- LEAD GENERATION PIPELINES: digital leads for your own product via Whop Ads; property leads by postcard, email or SMS;
+  reselling leads to trade companies per lead then on a zip-code retainer -- postcards and email CARD; automated
+  marketing SMS to scraped numbers NOT A PLAY (FCC written consent, verified); lead resale CARD only with the homeowner
+  told who gets their request.
+- TEN GROK BOT BUSINESSES: answer channels with AI presenters selling Whop guides; story channels from Reddit hardship
+  posts selling $29-$49 demand-letter packs or legal and finance affiliates; ad remakes on retainer; the installer
+  postcard retainer; a vet-bill channel with pet insurance affiliates; fandom merch; trend stores; hobby print on
+  demand; Etsy digital products marked as made with AI; clip channels from public meetings -- CARDS, dedup category 3
+  and the faceless lines. NOT A PLAY: "download and repurpose the most viral clips in that niche and plug your store in
+  the comments" (others' videos). CAUTION: legal self-help packs sold to people in trouble.
+- PROBLEM-DISCOVERY MACHINE -> micro-businesses for owner-led SMBs -- VF CARD, VentureForge
+  intake/pending/everestchris6-problem-discovery-machine.md.
+- PAID API ENDPOINTS FOR OTHER PEOPLE'S AI AGENTS, per call then per result or monthly, listed where agent builders
+  install skills -- CARD, and the best fit here: software only, sells from anywhere, and the design rules are in
+  claude-techniques agent-tool-ergonomics. CAUTION: his example endpoints sell scraped owner contact details.
+
 ## Not ways, but tools for finding them
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.
 - Complaint mining and marketplace research (MicroAcquire, TrustMRR) -- VF buildercentral-idea-discovery-stack.

@@ -139,6 +139,33 @@ The rules that decide whether a comment-to-DM funnel is allowed to send anything
   automation tool, is outside the terms on both counts -- separate from Meta's DM automation rules above, which cover
   replies to people who wrote first.
 
+## Reddit -- User Agreement and Reddit Rules (redditinc.com, read in a browser 2026-09-17; WebFetch is refused)
+- User Agreement (effective July 1, 2026): "You will not license, sell, or transfer your Account without our prior
+  written approval." Also prohibits accessing, searching or collecting data "by any means (automated or otherwise)"
+  except as the terms or a separate agreement permit.
+- Reddit Rules, Rule 2: "Participate authentically in communities where you have a personal interest, and do not spam
+  or engage in disruptive behaviors (including content manipulation)".
+- CONSEQUENCE: bought or rented karma accounts, a stable of warmed accounts pushing one product, and replies written to
+  sell without saying so are all outside these rules, whatever the posting method.
+
+## US -- text messages (fcc.gov consumer guide "Stop Unwanted Robocalls and Texts", read 2026-09-17)
+- "FCC rules ban text messages sent to a mobile phone using an autodialer unless the phone owner previously gave consent
+  to receive the message or the message is sent for emergency purposes." "Commercial texts require written consent".
+- CONSEQUENCE: automated marketing texts to scraped numbers are out. Search-level note, not checked here: business text
+  sending in the US also needs carrier registration.
+
+## Whop -- partner program and blueprints (docs.whop.com, read 2026-09-17)
+- Partners earn "for as long as the referral lasts, on four separate income sources": sales (Whop's profit on product
+  sales), ad_spend (the business's Whop Ads spend), transfer and card_interchange. Share rates are set per referred
+  business (payout_percentages; the docs' example value 0.3 = 30%). Two tiers: direct referrals and a reduced share on
+  businesses referred by your referrals. Earnings settle before they pay.
+- Blueprints: complete businesses in a gallery at whop.com/blueprints; publishers earn a "10% affiliate cut" when a
+  business deploys one. The page does not say whether it recurs or what it is a percentage of.
+- NOT VERIFIED: the "2.7% + 30 cents" processing fee, the "30% for life" rate as a fixed figure, "partners earn 1% of ad
+  spend", and Whop's agency ad accounts sitting at "meta's top tier".
+- DISCLOSURE: a post or email recommending Whop with a referral link is an endorsement with a material connection (FTC
+  rules above).
+
 ## Spotify -- "Spotify Strengthens AI Protections" (newsroom, 2025-09-25)
 - "all music is treated equally, regardless of the tools used to make it."
 - A music spam filter targets "mass uploads, duplicates, SEO hacks, artificially short track abuse, and other forms of
