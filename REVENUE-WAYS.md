@@ -665,6 +665,50 @@ NOT A PLAY, with the rule each breaks:
 - NOT A PLAY from @alphabatcher: an agent World Cup prediction contest paying points per invite (gambling-adjacent,
   invite code, no label); AI persona reels to Fanvue (section 5). His B2B micro-SaaS build manual dedups section 10.
 
+## 29. Added 2026-09-18 from @jaketrinder (21 videos, all read; card: intake/pending/jaketrinder-2026-sweep.md)
+A UK operator selling YouTube as a lead channel for businesses. Most of his money content dedups category 12 (creator
+services) and category 13 (consulting, production as a service, sponsorships). Every figure is his claim and none is
+carried; his own numbers contradict each other across videos.
+NEW LINES:
+- YOUTUBE STRATEGIST AS PAID WORK, NOT A BUSINESS -- CARD, UNVERIFIED. Three routes he names: grow your own channel
+  first, take a first client on a pay-only-after-results offer, or apprentice inside an agency that already has
+  clients and keep the work as your portfolio. He claims $100 per approved video idea, strategists paid "10 plus k a
+  month", and that hiring is his own bottleneck. No named strategist anywhere. Shape dedups the appointment-setter
+  line in category 14. Routed to CareerForge (intake/pending/youtube-strategist-paid-work.md, decision PENDING).
+- PER-VIDEO REVENUE ATTRIBUTION BUILD -- CARD, and the best fit in this source for a one-person desk. Install a table
+  joining video id, publish date, topic, format and call to action to impressions, views, click rate, retention at the
+  call-to-action timestamp, tracked clicks, page arrivals, leads, bookings, sales and refunds, then reconcile the
+  unknown rows by asking on calls and in a post-sale form. Sells as a one-off build plus a monthly read. Software
+  shaped, sells from anywhere, no market-day calls. The method is in youtube-growth playbook/09.
+- DONE-FOR-YOU BUSINESS-CHANNEL RETAINER, NOW PRICED -- DEDUP of the channel-management lines in category 12, kept
+  for the price ladder: $6,500 a month for one video a week fully done for you, $3,500 without editing, $8,500 for two
+  a week, some above $10,000, one $45,000 upfront. The client only records. HELD for this operator: selling it needs
+  sustained calls on market days.
+- FEATURE-LAUNCH INTEGRATION VIDEO, VENDOR PAID -- DEDUP of the sponsorship lines in category 13, kept for one
+  mechanic: refuse the feature video, build a challenge whose only exit is the feature, so the tool is how the story
+  resolves rather than an interruption. GATED on disclosure -- payment is a material connection under the FTC
+  endorsement rule, and none of the videos described carries a visible paid label.
+NOT A PLAY, with the rule each breaks:
+- TRAINING SOLD ON A PLACEMENT GUARANTEE AND A MONTHLY INCOME HEADLINE (becomeastrategist.com: "How I Make
+  $335,000/Month as a 21-Year-Old YouTube Strategist -- And How You Can Make Your First $10,000/Month in 90 Days",
+  placement at "$5,000 to $10,000 a month", 90-day refund, earnings disclaimer). A headline income figure plus a
+  placement promise with no named placed person is the FTC earnings-claim problem, and a disclaimer does not cure a
+  claim the buyer is invited to rely on. Honest version: price the teaching, promise no outcome.
+- STAGED PROOF DEVICES IN A COMMERCIAL VIDEO, stated by the seller himself: an opening bet described as "this wasn't
+  real... we created it purposefully", and payment-screenshot thumbnails endorsed with "Even if it's not real
+  payments, it looks like it is". FTC fake reviews and testimonials rule, plus YouTube misleading metadata.
+- PERFORMANCE PRICING WITH NO DEFINITION ("Or You Don't Pay" with no published trigger, period or refund mechanism).
+  An honest version defines failure and the refund in writing.
+- TREND-JACKING A NAMED PERSON'S FACE, NAME AND BRAND SIGNATURE to "borrow his audience", where the packaging implies
+  the work is theirs. Attributed commentary on published material is the honest version.
+- NON-API YOUTUBE RESEARCH SCRAPING SOLD AS THE EDGE. He rejects vidIQ, TubeBuddy and 1of10 because "they're all done
+  through YouTube's data API", then says "you can just get it to bypass the API", scraping rendered page data at scale
+  across machines. The quota is real (developers.google.com/youtube/v3/getting-started: 10,000 units a day plus 100
+  search calls), but an automated bypass of a rate-limited API is outside YouTube's terms (INFERRED -- the terms page
+  was not read). Read the terms before any browser research agent is built on this pattern.
+- UNDISCLOSED TOOL REFERRAL ("if you use that link, I think you get some free credits", no label). FTC disclosure.
+  The labelled version dedups the honest-affiliate line in category 7.
+
 ## Not ways, but tools for finding them
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.
 - Complaint mining and marketplace research (MicroAcquire, TrustMRR) -- VF buildercentral-idea-discovery-stack.

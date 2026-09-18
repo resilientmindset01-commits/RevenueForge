@@ -242,6 +242,29 @@ The rules that decide whether a comment-to-DM funnel is allowed to send anything
   days", with "an extended 90-day window" to recover. Terms must be accepted in Studio "by January 31, 2027" or
   monetization features stop paying from 1 Feb 2027 until they are accepted.
 
+## YouTube -- disclosing altered or synthetic content (support.google.com/youtube/answer/14328491, read 2026-09-18)
+- Disclosure is required when realistic content "Makes a real person appear to say or do something they didn't do",
+  "Alters footage of a real event or place", or "Generates a realistic scene that didn't actually occur".
+- EXEMPT: "Cloning one's own voice to create voice overs or dubs", "Caption creation", "idea generation", beauty,
+  colour and lighting filters, gameplay footage, and clearly unreal or animated content.
+- "For photorealistic AI content, a label in the video player may also appear"; otherwise the label sits in the
+  expanded description. YouTube "may automatically apply labels" to content made with its own tools, content carrying
+  C2PA metadata, or detected AI-generated material.
+- Not disclosing risks "manual application of a label, or penalties from YouTube, including removal of content or
+  suspension from the YouTube Partner Program".
+- CONSEQUENCE for the NEET pipeline: a synthetic narration voice over diagrams is exempt while no real person is
+  depicted saying something they did not say and no realistic scene is fabricated. A realistic AI-generated "student
+  testimonial" would need disclosure and would also hit the FTC testimonial rule above.
+
+## YouTube Data API -- what third-party research tools are working with (developers.google.com/youtube/v3/getting-started, read 2026-09-18)
+- "Projects that enable the YouTube Data API have a default quota allocation of 100 search.list calls, 100
+  videos.insert calls, and 10,000 units per day combined for all other endpoints"; more can be requested through a
+  quota extension form.
+- CONSEQUENCE: research tools built on the API work inside that ceiling, which is the grain of truth in a seller's
+  claim that vidIQ, TubeBuddy and 1of10 "only give you a fraction of the picture". Automating a bypass by scraping
+  rendered page data at scale is a different matter and was not checked against YouTube's terms here -- do not build a
+  research agent on that pattern until it is.
+
 ## YouTube view counting -- the 2026-08-24 split (support.google.com/youtube/answer/2991785, read 2026-09-16)
 - "Beginning August 24, 2026, views are counted the moment a video starts to play across all formats, including
   Shorts, long-form videos (VOD), and live streams." The public number went up without anything improving.
