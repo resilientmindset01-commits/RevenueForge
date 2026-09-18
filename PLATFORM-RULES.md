@@ -265,6 +265,27 @@ The rules that decide whether a comment-to-DM funnel is allowed to send anything
   rendered page data at scale is a different matter and was not checked against YouTube's terms here -- do not build a
   research agent on that pattern until it is.
 
+## Claude Code routines -- what an unattended run is allowed to do (code.claude.com/docs/en/routines, read 2026-09-18)
+Read because two sources in the 2026-09-18 intake described routines from memory and contradicted each other. What
+the page actually says:
+- Availability: "Routines are available on Pro, Max, Team, and Enterprise plans." Created at claude.ai/code/routines
+  or from the CLI with `/schedule` (alias `/routines`).
+- AUTONOMY, and this is the line that governs how the desk scopes its own scheduled work: "Routines run autonomously
+  as full Claude Code cloud sessions: there is no permission-mode picker and no approval prompts during a run", and
+  "Claude can use every tool from an included connector, including writes, without asking for permission during a
+  run." All connected connectors are included by default, so REMOVE the ones the routine does not need at creation.
+- Fire text is not an instruction: a POST payload "arrives wrapped in a `<routine-fire-payload>` block that labels it
+  as untrusted data", so the routine's own prompt must opt in to acting on it. Anyone holding the bearer token can
+  send that text.
+- Branch safety: pushes go to `claude/`-prefixed branches, which "are always accepted"; a push elsewhere is rejected
+  if the branch is protected, someone else has an open pull request from it, or it carries commits by another author.
+- Cadence: "The minimum interval is one hour; expressions that run more frequently are rejected."
+- LIMITS ARE NOT PUBLISHED AS A NUMBER. The page says only that routines "have a daily cap on how many runs can start
+  per account" and to read the remaining allowance in your own account. One source in this intake stated 25 a day in
+  one article and 5-on-Pro / 15-on-Max in another. NEITHER IS CARRIED. One-off runs do not count against the cap.
+- Green status is not success: "A green status in the run list means the session started and exited without an
+  infrastructure error. It does not mean the task in your prompt succeeded."
+
 ## YouTube view counting -- the 2026-08-24 split (support.google.com/youtube/answer/2991785, read 2026-09-16)
 - "Beginning August 24, 2026, views are counted the moment a video starts to play across all formats, including
   Shorts, long-form videos (VOD), and live streams." The public number went up without anything improving.

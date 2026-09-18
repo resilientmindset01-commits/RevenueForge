@@ -37,6 +37,15 @@ package to businesses that already spend money on ads or listings.
 6. MAKE IT RECURRING. New products, new listings and ad fatigue create repeat orders; offer a monthly package (his:
    $810 a month for a brand that wanted daily videos).
 
+7. PUBLISH ONE SAMPLE INSTEAD OF SENDING IT. Pick a named business in the niche that already spends on attention and
+   post the rebuild in public: what their current output is made of, the one diagnosis, the positioning sentence,
+   four pillars, and the weekly cadence that produces it from material they already record. Name the prospect. The
+   post reaches them, and every similar buyer reads it as a work sample. Do not claim a result you have not produced
+   for them, and do not present their assets as your own work. (@wizofecom, 11 X Articles read 2026-09-18; every figure of his is his own claim and is not carried.)
+8. KEEP A FOLLOW-UP LEDGER. One row per conversation: what they want, the objection they raised, the constraint they
+   named, the date. Every later contact references a specific line from that row rather than being a check-in. Closes
+   in this lane arrive after several touches spread over months, so the ledger is the asset and the pitch is not.
+
 ## His numbers, as reported (UNVERIFIED, tiny samples)
 - Local-business run: 100 personalized emails, "a couple" of interested replies, 1 sale at $149. His description:
   "gross revenue from one client during this test".

@@ -709,6 +709,82 @@ NOT A PLAY, with the rule each breaks:
 - UNDISCLOSED TOOL REFERRAL ("if you use that link, I think you get some free credits", no label). FTC disclosure.
   The labelled version dedups the honest-affiliate line in category 7.
 
+## 30. Added 2026-09-18 from the X intake (@wizofecom 11 Articles + 15 posts, @meAsifAi 19 posts, @IQReactorAI 26 posts, @Google 29 posts)
+Card: intake/pending/wizofecom-mogul-media-2026-sweep.md. Every figure in these sources is the author's claim and
+none is carried. @IQReactorAI and @Google sell nothing in the window read, and are recorded as reference sources in
+ConceptForge/intake/REFERENCES.md instead.
+NEW LINES:
+- SPONSOR WING RUN ACROSS AN AGENCY'S OWN CLIENT ACCOUNTS AND A THEME PAGE -- CARD, GATED. The agency owns a niche
+  page, uses it to distribute client posts, and sells sponsor placements across both the page and the accounts it
+  manages. The new economic shape is that one sponsor sale is priced against reach the agency does not own. GATED on
+  disclosure: the observed flight carried the platform's paid-partnership label on two posts and not on the third,
+  which was the post carrying the signup link. NOT A PLAY where the page reads as independent while promoting paying
+  clients.
+- PUBLIC SPEC TEARDOWN AS PROSPECTING -- CARD. Publish a full, free strategy rebuild for one named prospect: their
+  current format mix, the diagnosis, the positioning line, the pillars, a week-by-week cadence. The post is the pitch
+  and doubles as a sample for everyone else in the niche. Dedups the make-the-sample-first line in playbook/01; the
+  difference is that the sample is published rather than sent. Method in playbook/01 step 7.
+- FOLLOW-UP LEDGER AS THE CLOSE -- CARD, costs nothing. Log every booked call, its objections, its goals and its
+  context; tie every later touch to something the buyer actually said; keep going until the timing changes. Method in
+  playbook/01 step 8.
+- DEMAND MINING FROM PUBLIC COMPLAINTS -- CARD, and the best fit in this whole batch for a one-person desk. Full
+  method in playbook/05-demand-mining-from-complaints.md: scope to one buyer and one workflow, collect complaint
+  language from sources whose terms allow it, score each hit on six axes, cluster weekly, and validate with a landing
+  page plus a manual service before any software exists. Distinct from playbook/02, which reads ads to find demand
+  somebody is already paying for.
+- DFY FOUNDER-BRAND RETAINER ON X AND LINKEDIN -- DEDUP of category 12 and section 29, kept for one delivery
+  mechanic: the client's only input is one scheduled interview a week, answered as an unscripted voice note, and the
+  transcript plus a proven format becomes the week's posts. HELD for this operator for the same reason as section 29
+  -- it needs sustained calls on market days.
+- PROMPT-GIVEAWAY ACCOUNT FEEDING A DFY VIDEO SERVICE -- DEDUP of playbook/01 and playbook/02. The whole asset (a
+  long generation prompt) is published free and the money is in the service. No gate, no bundle, no community.
+NOT A PLAY, with the rule each breaks:
+- ACCOUNTS RUN FOR OTHER PEOPLE WITH NO DISCLOSURE PRACTICE, stated outright by the seller. The honest version is the
+  ghost-writing line in section 24, which does not turn on concealing who is posting.
+- A THEME PAGE THAT READS AS INDEPENDENT WHILE PROMOTING PAYING CLIENTS. Undisclosed material connection, FTC
+  endorsement rule already verified in PLATFORM-RULES.md.
+- AUTOMATED FILE DELIVERY TRIGGERED BY A COMMENT KEYWORD ON X. No verified entry covers automated DM sending on X,
+  and the Meta reading behind playbook/04 does not port across platforms.
+- IN-GROUP IDENTITY BUILT AROUND A NAMED COMMON ENEMY AS A CONVERSION DEVICE. The article's own frame is
+  manipulation, and its "common enemy" is a class of people rather than a claim. The same article cites a study to a
+  body that does not publish studies, which is the reliability signal for everything in it.
+- REAL TRADEMARKS AND REAL PEOPLE'S LIKENESSES GENERATED INTO SYNTHETIC ADVERTISING. Observed in published output
+  that contradicted the author's own prompt constraint. The carryable half is the opposite instruction, now in
+  youtube-growth/playbook/05 item 10.
+
+## 31. Added 2026-09-18 from @hooeem (47 X Articles read, two paywalled behind his own tier)
+A tutorial-funnel operator. Funnel: free long "full course" X Articles, a free newsletter, a low-price subscriber
+tier, and a stated intention to sell software to those subscribers later. Every view, subscriber and revenue figure
+of his is UNVERIFIED and none is carried.
+NEW LINES:
+- PUBLIC-INTENT PROSPECTING AGENT -- CARD, and it extends rather than dedups the outreach lines in category 1 and
+  section 23. Search public posts for people describing the problem you solve; score the signal from
+  asking-what-to-buy down to says-they-have-the-problem and reject anything below the middle; read the REPLIES to a
+  post, not only the post; research the person and write "Unknown" wherever a fact cannot be verified; keep a seen
+  list so the same person and signal never returns; draft outreach quoting only what they publicly wrote. CAUTION:
+  the agent may discover, research, score and draft. Sending, replying and adding to a sequence stay behind a person.
+  Automated unsolicited DMs remain NOT A PLAY. Do not reuse the source's own worked examples, which name three real
+  private accounts as targets.
+- KNOWLEDGE-BASE BUILDS SOLD TO LOCAL BUSINESSES -- CARD, dedups the local-business consultant line in category 1.
+  The deliverable is the vault plus the protocol file described in claude-techniques research-vault-pipeline; the
+  sale is the setup and the monthly maintenance, not software.
+- LOW-PRICE SUBSCRIBER TIER WITH DIRECT ACCESS -- CARD, dedups the paid community line and section 18. Transferable
+  parts: price so low the offer reads as obviously worth it, make the access itself the product, run fixed weekly
+  rituals so members always know what is next, keep the room small, and convert by publishing what existing
+  subscribers got rather than by describing the tier.
+- CONVENIENCE PRODUCTS (templates, checklists, prompt packs) -- dedups category 3. One usable test added: if it
+  cannot be used and produce a result in under a minute, it is not this kind of product.
+- THE TRANSFORMATION SENTENCE -- not a way to earn, a gate before building one. "After using this, a buyer goes from
+  [stated painful state] to [stated result]." If the sentence cannot be completed with specifics, there is no
+  product.
+NOT A PLAY:
+- A BOT THAT SCRAPES LOCAL BUSINESSES' SOCIAL PAGES, GENERATES A DAILY ARTICLE FROM THE SCRAPED CONTENT AND
+  AUTO-POSTS IT, showcased approvingly. Content appropriation plus automated posting.
+- COMMENT-GATED LEAD MAGNETS quoted approvingly. Engagement manipulation on the major platforms.
+- PERSONALISED INVESTMENT AND DEBT INSTRUCTIONS published under a one-line disclaimer by an author who states he is
+  not an expert. Outside every lane here and refused outright, along with the autonomous trading-wallet example he
+  reproduces from a third party.
+
 ## Not ways, but tools for finding them
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.
 - Complaint mining and marketplace research (MicroAcquire, TrustMRR) -- VF buildercentral-idea-discovery-stack.
