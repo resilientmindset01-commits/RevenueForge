@@ -785,6 +785,29 @@ NOT A PLAY:
   not an expert. Outside every lane here and refused outright, along with the autonomous trading-wallet example he
   reproduces from a third party.
 
+## 32. Added 2026-09-18 from @GithubProjects (4 X Articles and 48 posts read)
+An unofficial open-source curation account, about 337K followers, six to ten repo cards a day. Full assessment in
+ConceptForge/intake/REFERENCES.md. It is included here because its money model is one this estate had not catalogued:
+the product is other people's attention to other people's work.
+NEW LINE:
+- CURATION ACCOUNT AS AN ATTENTION BROKER -- CARD, and GATED hard. The stack: a high-frequency curation feed in one
+  narrow category; all outbound traffic routed through the account's OWN shortener and aggregator rather than to the
+  project being promoted, so the audience is retained rather than spent; tips as the visible bio route; a platform
+  subscription tier; and long-form posts sold to single vendors. Distinct from the affiliate and newsletter lines in
+  category 7 because nothing is sold to the audience and no product is owned -- the asset is placement in a feed
+  people trust to be editorial.
+  WHY IT IS GATED AND NOT A PLAY AS OBSERVED: two of its four long-form pieces are single-vendor advertorials end to
+  end, with a product call to action and no paid-partnership label displayed, and the account's own quoted post
+  implies a paid placement service ("helping them gain hundreds of thousands of stars"). Paid promotion inside a feed
+  that reads as independent curation is the same undisclosed material connection already recorded in PLATFORM-RULES
+  under the FTC endorsement rule and X's own paid-partnerships policy, which provides a built-in label.
+  THE HONEST VERSION, if this shape is ever built: label every paid placement with the platform's own label, keep a
+  visible line stating what is paid for and what is chosen, and link to the project directly rather than through a
+  property you own. That version is slower and is a real business; the observed version borrows editorial trust it
+  does not disclose spending.
+NOT A PLAY: publishing a sponsored single-vendor advertorial as an apparently editorial long-form post with no
+disclosure. Two of the four Articles read do exactly this.
+
 ## Not ways, but tools for finding them
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.
 - Complaint mining and marketplace research (MicroAcquire, TrustMRR) -- VF buildercentral-idea-discovery-stack.

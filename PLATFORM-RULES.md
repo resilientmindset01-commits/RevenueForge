@@ -118,6 +118,39 @@ The rules that decide whether a comment-to-DM funnel is allowed to send anything
   from multiple accounts -- even accounts you own -- are prohibited; penalties run from reduced reach and locks to
   permanent suspension.
 
+## X ranking weights -- TWO SOURCES, TWO DIFFERENT TABLES, NEITHER CONFIRMED (checked 2026-09-18)
+Two independent accounts in the 2026-09-18 intake published X ranking weights as fact. They disagree, so at most one
+can be right, and the repository they both lean on does not settle it. Recorded here so no playbook in this estate
+ever depends on a number from either.
+WHAT WAS ACTUALLY CHECKED, at github.com/twitter/the-algorithm on 2026-09-18:
+- The repository is live and NOT archived. Description: "X's Recommendation Algorithm is a set of services and jobs
+  that are responsible for serving feeds of posts and other content across all X product surfaces".
+- Its top-level directories are the Scala stack: home-mixer, product-mixer, cr-mixer, tweet-mixer, timelineranker,
+  timelines, simclusters-ann, representation-scorer, navi, twml, tweetypie, unified_user_actions,
+  user-signal-service, visibilitylib and others.
+- home-mixer's own README calls it "the main service used to construct and serve Twitter's Home Timelines", built on
+  Product Mixer, "a custom Scala framework", with candidates from the Earlybird Search Index and the User Tweet
+  Entity Graph and roughly 6000 hydrated features.
+- NO SCORING WEIGHTS APPEAR IN EITHER README.
+WHAT ONE SOURCE CLAIMED THAT THE REPOSITORY DOES NOT SUPPORT: an architecture of "Home Mixer" orchestrating "Thunder"
+(an in-memory post store) and "Phoenix" (a two-tower retrieval plus a Grok-based transformer ranker with a
+candidate-isolation attention mask) over a "generic Rust framework". There is no `thunder` directory and no `phoenix`
+directory in the repository, and home-mixer is described as Scala rather than Rust. Either that stack is newer than
+what is published, or the description is wrong. Do not cite it as "from the open-source algorithm".
+THE TWO WEIGHT TABLES, for the record and not for use:
+- Source A: like 0.5, repost 1.0, reply 5.0, quote 5.0, share 2.0, DM share 5.0, copy-link share 20.0, follow the
+  author 4.0; out-of-network posts discounted by 0.75; author diversity decay 0.5 toward a 0.25 floor; open-link
+  prediction +0.2.
+- Source B: a reply that prompts a reply from the author +75, a standalone reply +13.5, profile visit then engage
+  +12, click into the conversation then engage +11, two minutes dwell +10, repost +1.0, like +0.5, half a video
+  +0.005.
+THE ONLY THING THEY AGREE ON, and the only thing worth acting on: conversation outranks reposts, and reposts outrank
+likes, by a wide margin. That direction is consistent across both tables and is the reason
+youtube-growth/playbook/17 is written around replies and proof posts. Nothing in that file depends on a number.
+ALSO CLAIMED BY SOURCE B AND NOT CHECKED: an 80 percent reach reduction for offensive text, penalties for ALL CAPS
+and for posts containing links, and increased reach for verified accounts. Treat all four as unverified; the link
+penalty in particular is repeated everywhere and sourced nowhere.
+
 ## FTC -- final rule banning fake reviews and testimonials (ftc.gov press release, August 2024, read 2026-09-17)
 - Prohibits reviews and testimonials that "misrepresent that they are by someone who does not exist, such as
   AI-generated fake reviews, or who did not have actual experience with the business."
