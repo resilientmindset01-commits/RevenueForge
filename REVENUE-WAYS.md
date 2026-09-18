@@ -808,6 +808,49 @@ NEW LINE:
 NOT A PLAY: publishing a sponsored single-vendor advertorial as an apparently editorial long-form post with no
 disclosure. Two of the four Articles read do exactly this.
 
+## 33. Added 2026-09-18 from the money accounts of the second X batch (@ecommartinez 19 Articles, @manoj_ahi 3, @heynavtoor 67+ enumerated, @PrajwalTomar_ 24 since the June cutoff)
+Full coverage per the standing rule: 45 distinct methods were captured in the intake file. Every revenue, user and
+partnership figure in these sources is the seller's own claim and none is carried. Four sellers, four different
+shapes, and only one of them fits an operator who cannot take calls on market days.
+NEW LINES:
+- ASYNC GO-TO-MARKET FOR A SMALL PAID PRODUCT -- CARD, and the best fit in the entire two-batch intake for this
+  operator. Full method in playbook/06-async-gtm-for-a-small-product.md: niche directories taken on a revenue share
+  rather than paid placement, referral deals agreed with one community owner rather than posting into the community,
+  a branded and disclosed forum account, programmatic pages plus an llms.txt, a time-limited trial with the
+  expensive feature withheld, and no-questions refunds treated as product research. Every step ends in a link, not a
+  conversation. The seller publishes prices and dashboards rather than testimonials, which is why this one is
+  carried and the other three are mostly not.
+- A PUBLISHED RATE CARD FOR YOUR OWN AUDIENCE -- DEDUP of playbook/03-creator-rate-card.md, kept for one mechanic
+  worth copying: publish the prices ($500 a post, $1,000 a thread, a bundle rate) so the negotiation is a purchase
+  rather than a call. GATED HARD, see NOT A PLAY below -- the account demonstrating it claims twelve brand
+  partnerships and carries one disclosure label across 67-plus articles, which is the exact failure the rate card
+  is supposed to make unnecessary.
+- SMALL PRODUCTS AT PUBLISHED PRICES AS A PORTFOLIO -- CARD. Four products between $19 and $8,000, each self-serve,
+  each with its price on the page. The portfolio shape matters more than any one product: a low-priced tool that
+  needs no support funds the attention that sells the expensive one, and none of them requires a meeting.
+- PAID PARTNERSHIP POSTS AS THE ACTUAL CASH LINE BEHIND A TEACHING ACCOUNT -- DEDUP of category 13 and section 30,
+  recorded because the ratio is instructive: one account ran about six labelled partnership posts in five days while
+  its published teaching was about other business models entirely. When reading any such account, the thing being
+  sold is usually not the thing being taught.
+- CONSULTING AND COMMUNITY LADDER AFTER A POSITIONING CHANGE -- see the REASSESSMENT note below.
+REASSESSMENT, and the estate was wrong: @PrajwalTomar_ was rejected on 2026-06-22 as "covered". The account has
+since changed positioning from building MVPs to publishing what makes money, and now runs an agency at published
+tiers, a free community, a paid community, a newsletter shipping a full course, sponsorships and consulting. The
+June verdict no longer describes it. It is not carried here beyond this note, because five of those six lines need
+sustained calls, but the REJECT is withdrawn and the account is worth one proper read when the operator has time.
+NOT A PLAY, each against a rule already verified in PLATFORM-RULES.md:
+- FABRICATED COMMENTS WRITTEN TO READ AS REAL VIEWERS, and a published prompt for making generated text pass as
+  human. FTC fake reviews and testimonials rule; the second is detection evasion with no honest version.
+- AN UNATTRIBUTED FIRST-PERSON BIOGRAPHY claiming senior roles at named large companies, used as credibility.
+- AN AFFILIATE DESTINATION LINKED FIVE TIMES WITH NO DISCLOSURE, and twelve claimed brand partnerships against one
+  labelled post across 67-plus articles. FTC endorsement rule and the platform's own paid-partnership label.
+- BOT-DETECTION EVASION ON FREELANCE MARKETPLACES -- spoofed user agents, randomised delays, a separate browser
+  profile -- and cold email tuned to sit under spam thresholds. The rule is consent and disclosure, not staying
+  under a threshold.
+- TAKING OVER ABANDONED COMMUNITIES TO MAIL THEIR MEMBERS, and harvesting contact details from a professional
+  network into a spreadsheet.
+- GUARANTEEING PERFORMANCE METRICS TO A SPONSOR, and repeated scarcity claims with no published price.
+
 ## Not ways, but tools for finding them
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.
 - Complaint mining and marketplace research (MicroAcquire, TrustMRR) -- VF buildercentral-idea-discovery-stack.
