@@ -32,6 +32,50 @@ Six sourced models, scored in the card. Decisions:
 - Voice-AI receptionist (Card 3) -> OFF-PORTFOLIO (local-SMB appointment-setting,
   unrelated to PrepBrix/forge IP). Logged, not pursued.
 
+## 2026-09-18 -- playbook/06 decision: the pack is the product, and it gets one honest test
+
+THE DECISION. Do not build a new product to run playbook/06 against. The precondition the playbook names -- a
+product with a published price and a self-serve signup -- is already met by forge-skill-pack, and has been for
+weeks. The zip is built and byte-verified, the landing page is live with a price, a refund policy and a named
+seller, the free kit exists, the funnel emails are drafted, the launch posts are drafted, and the demand research
+put the price inside the observed range for its category. One manual step is missing: the zip is not on the store.
+Building anything else while a finished product sits unshipped would be the estate avoiding the test rather than
+running it.
+
+WHAT CHANGES, against the plan as written in OPEN-ITEMS. Two of the playbook's four channels are struck for this
+product on price grounds (the new section in playbook/06 states the general rule). At this price a revenue share is
+a few units per referral, so directory and community-owner deals are not worth a stranger's administration, and
+pursuing them would produce silence that reads falsely as a failed channel. RUN CHANNELS 3 AND 4 ONLY: a disclosed
+branded presence, and pages plus the llms.txt that already exists. Paid ads stay held, as they already are.
+
+THE SPLIT OF WORK, so nothing waits on the wrong person:
+- OPERATOR, about five minutes, and it is the only blocking step: upload the zip to the existing store listing and
+  paste the two prepared descriptions. Everything else in OPEN-ITEMS item 3 is already done.
+- OPERATOR, when free, and NOT blocking: the launch posts, one channel at a time, days apart. Posting in public is
+  the operator's own voice and account, so it is not delegated.
+- THE FORGE, no operator time: the pages for channel 4, the llms.txt refinement, and the measurement sheet below.
+
+THE KILL CRITERION, which is the part that makes this a decision rather than a plan. This product has been carried
+since June without a single sale, because the test has never actually been run. Run it once, properly, then rule:
+- Start the clock at the FIRST launch post, not at the zip upload.
+- THIRTY DAYS. Three or more sales: the offer works at this price, and channels 1 and 2 become worth revisiting by
+  raising the price rather than by pushing harder on 3 and 4.
+- FEWER THAN THREE, with the pages live and the posts out: STOP SELLING IT. Convert the pack to a free lead asset
+  for the solo consulting and career line, which is where this operator's stated goal points anyway, and close the
+  paid-pack line in this file. That is not a failure of the work -- the pack is good and the material is already
+  load-bearing across the estate -- it is the honest reading of a market that declined to pay.
+- INTEREST WITHOUT SALES (traffic, signups, no purchases) is the third outcome and it means the OFFER, not the
+  channel. In that case rewrite the offer once and restart the thirty days. Do not restart twice.
+
+MEASUREMENT, one row per channel, read at thirty days: referred visits, free-kit signups, store views, sales,
+refunds. Refunds stay a separate column rather than netted off, because a channel with sales and refunds is sending
+the wrong buyer and netting hides it.
+
+WHY THIS AND NOT THE ALTERNATIVES. Building a second product first would repeat the same untested assumption at
+twice the cost. Raising the price to open channels 1 and 2 before any sale would be guessing at the objection.
+Continuing to hold the launch keeps the estate's only finished product permanently unfalsifiable, which is the worst
+of the available outcomes -- an unshipped product cannot fail, and cannot teach anything either.
+
 ## Net
 No new VentureForge play was auto-created this drain: GEO already graduated into its
 own lane, the AI-UGC model dedups an existing play, and the one truly

@@ -39,6 +39,22 @@ every step below ends in a link rather than a conversation.
    accurately. This is the only channel here that compounds while you are away
    from the desk, which makes it the best fit for market days.
 
+## Price gates which channels are available, and this is the first thing to check
+
+The four channels above are not equally available at every price. Channels 1 and 2 pay a third party out of the sale,
+so they need a sale big enough to be worth a stranger's attention. On a product under about fifty units of currency,
+a revenue share is a few units per referral, and a directory owner or a community owner will not administer a deal
+for that. Do not read their silence as the channel failing; the offer was never interesting.
+So gate the plan on price before spending effort:
+- UNDER ~50: channels 3 and 4 only -- a disclosed branded presence, and pages plus an llms.txt that work while you
+  are away from the desk. These cost your time and nothing else, which is why they survive a low price.
+- 50 TO A FEW HUNDRED: channels 1 and 2 become worth proposing, because the share is now real money per referral.
+- ABOVE THAT: you are no longer running this playbook. Higher prices reintroduce the conversation this file exists to
+  avoid.
+The corollary worth acting on: if channels 3 and 4 produce interest but not sales, that is evidence about the OFFER.
+If they produce neither, it is evidence about the channel. Do not raise the price to open channels 1 and 2 before
+you know which of the two you are looking at.
+
 ## The conversion mechanics
 
 - A TIME-LIMITED TRIAL WITH FEATURES CUT, not a trial with everything on. A full
