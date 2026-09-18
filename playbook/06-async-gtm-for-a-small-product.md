@@ -57,6 +57,37 @@ refunds. Read refunds as a separate line rather than netting them off revenue --
 a channel with good conversion and high refunds is sending the wrong buyer, and
 netting hides it.
 
+## The build spine, for the product this playbook then sells
+
+A second source in the same intake shipped a small paid product and published the whole build. It is worth keeping
+because it is four stages and none of them is "have an idea":
+1. WRITE THE SPEC WITH A MODEL BEFORE BUILDING ANYTHING -- the data shape, the one mechanic that makes the product
+   different, and what it deliberately will not do. One mega-prompt covering everything at once is the failure he
+   reports; separate stages worked.
+2. BUILD THE INTERFACE AGAINST MOCK DATA FIRST, with a no-code builder or otherwise. The interface is where the idea
+   is tested cheaply, and mock data stops the schema being decided by whatever was easy to fetch.
+3. BUILD THE ONE MECHANIC PROPERLY. In his case a scoring function with a decay half-life and a floor, deliberately
+   replacing the streak counter every competitor uses. This is the only part that is not commodity, and it is the
+   part to spend on.
+4. PAYMENTS LAST, through a merchant of record if you are selling across borders -- it moves sales-tax filing to the
+   processor, at a percentage. Check the current fee and the filing claim yourself before relying on either.
+His figures are his own and none is carried; the money table's larger rows are arithmetic projections rather than
+achievements, which he says. The useful negative results he reports: one mega-prompt failed, freemium converted in
+the low single digits, and the build took eleven evenings rather than the weekend the title implies.
+
+## One acquisition tactic from that source, REFUSED
+
+He recommends building standing in a support community for a medical condition by answering threads helpfully until
+your username is recognised, and then launching the product into it -- with a pre-launch checklist item to post one
+unpaid, unmarked comment in the target community before launch day.
+This is NOT the branded-account channel above, and the difference is the whole point. The honest version discloses
+what you sell from the first post and answers questions where the product is relevant. This version is participation
+performed as a means to a sale, in a vulnerable-population community, where the disclosure is withheld precisely
+because it would reduce the effect. It also breaches the self-promotion rules of most such communities.
+Recorded, not carried. The same source also uses unsourced health statistics as sales support and publishes an
+uncited table disparaging four named competitors on price, which is the second reason nothing from its marketing
+layer is carried.
+
 ## REFUSED, from the same intake
 
 These were read in the money accounts of this batch and are not carried. Each
