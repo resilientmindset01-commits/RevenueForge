@@ -158,6 +158,82 @@ which is heavier placement than a single mention suggests. Recorded as disclosed
 - AI prompt bundles -- NOT A PLAY on Etsy, which excludes "AI prompt bundles" by name.
 - PrepBrix study products and funnel -- deferred behind the PrepBrix gate: VF prepbrix-digital-product-monetization.
 
+### 2026-09-19 -- the @SeanDollwet drain rewrites this category. Read this block before the lines below it.
+Source key: SD. 17 long-form videos read from a KDP operator of about ten years, 760 reported videos, 172 reachable.
+The most operationally complete money source drained so far. Every earnings figure on the channel is UNUSABLE --
+the cumulative totals never reconcile across videos and every per-book royalty shown is an estimate derived from
+sales rank, not reported sales. The MECHANICS below do not depend on any of them.
+
+- AMAZON KDP NON-FICTION -- promote to the front of this category, FIT for a solo operator with no audience and no
+  capital, and the reason is structural rather than motivational: Amazon owns the traffic, the payments, the
+  delivery, the refunds and the support. Every alternative he rejects -- agency, SaaS, faceless channels, courses,
+  paid communities, Gumroad and Etsy stores -- fails on the same axis: you supply the traffic or you carry the
+  support. Etsy is worse than KDP in his framing precisely because it HAS traffic but leaves you the customer
+  service, the refunds and the printer problems. SD sQQN53qx-VI, bVN1ziMaHks, EHWct7kVlFA.
+  WHY NON-FICTION RATHER THAN FICTION, and the reasons are mechanical: buyers type their problem into Amazon so
+  keyword search gives free discovery; higher list prices mean ads can pay from book one; and AI drafts hold up
+  because chapters rarely reference each other, where a long narrative drifts and costs more to repair than to
+  write. SD EHWct7kVlFA.
+- VALIDATION, FREE VERSION -- no paid tool needed. DS Amazon Quick View is a free Chrome plugin that shows sales
+  rank in search results. THE BENCHMARK IS A NUMBER: books on PAGE ONE with rank under 80,000, which he equates to
+  roughly $500/month. If page one has them, demand is proven. The paid filters add review counts and, the part most
+  people miss, a MINIMUM AGE filter that excludes brand-new books whose rank is inflated by their launch period.
+  SD A-YpJGngwjs, fPnFZ3eoJGI.
+- HUNT LOW-STAR BESTSELLERS -- the sharpest heuristic in the drain and it costs nothing. A book selling hard with
+  few reviews and a poor average is unmet demand wearing a warning label, and it is the easiest one to beat. Then
+  MINE ITS 1-3 STAR REVIEWS for the missing feature: his worked example found an exercise book whose complaints
+  were that the movements could not be visualised from text, which names the differentiated product for you.
+  SD fPnFZ3eoJGI, PG23ti2qCIE.
+- THE 90-DAY LAUNCH SEQUENCE -- PLAYBOOK-CANDIDATE, the most complete operational sequence logged in this file.
+  Days 1-7: launch the ebook at $0.99, reach 10-20 reviews from readers who are actually in the target audience,
+  post short-form daily. Days 8-30: start ads once 10-20 reviews exist and not before, because paid clicks to a
+  review-less page burn cash; audit the 7 backend keyword slots by searching each one as a shopper and replacing
+  any where your book is not in the first three pages; add A+ content; walk the price ladder $0.99 -> $2.99, where
+  the 70 percent royalty band begins -> $4.99 -> $6.99 -> $9.99, optimising total royalties rather than per-unit.
+  Days 31-90: scale what pays, kill what does not, and start the next book in the same series. SD clQDpweh-yc.
+- AUTHOR CENTRAL AS A FREE EMAIL LIST -- the most under-used item in the drain. It is free, it lives inside Amazon,
+  and every follower gets an automatic email on each new release. His anti-advice is worth keeping too: do NOT
+  build an audience before publishing, and be suspicious of people who tell beginners to, because the advice often
+  carries an email-software affiliate link. SD clQDpweh-yc.
+- FORMAT STACKING AND WIDE DISTRIBUTION -- one manuscript becomes ebook, paperback, hardcover, audiobook and
+  translations, with Kindle paying the LOWEST royalty of the formats. Beyond Amazon: IngramSpark for stores and
+  libraries, Draft2Digital for Apple, Kobo and Barnes & Noble, Findaway Voices for audio. Bundles cost nothing to
+  make, rank in different categories and raise order value. SD A-YpJGngwjs, EHWct7kVlFA.
+- THE EXIT -- the strongest single fact for anyone building alone, and the only place on any drained channel where
+  comparables are shown rather than asserted. Catalogues trade at ROUGHLY 30 TO 40 TIMES MONTHLY NET PROFIT on the
+  public brokers, read out live: $23,000/mo at $874,000, $25,000/mo at $741,000, $4,600/mo at $178,000, $1,110/mo
+  at $42,000. That makes a $1,000/month catalogue a roughly $42,000 asset, which changes what counts as a small
+  result. SD A-YpJGngwjs.
+- SERVICE MODELS THAT PAY BEFORE A CATALOGUE EXISTS -- CARD. Ghostwriting for time-poor authors and business
+  owners, and BOOK COVER DESIGN at a stated $200-300 because a cover is bought as a sales asset rather than as
+  design, with recurring demand because every release needs one and weak books get re-covered. Specialise by genre.
+  SD EHWct7kVlFA.
+
+### NOT A PLAY, or not from here
+- THE VOLUME STRATEGY IS DYING, and his own evidence is the argument against it: he sat at about $10,000/month for
+  a YEAR publishing "just okay" books at volume, then moved to fewer better books and settled far higher. Separately
+  KDP NOW CAPS UPLOADS AT THREE BOOKS PER DAY, which he attributes directly to volume abuse. The platform is
+  closing the route, not just the competition. SD RI1HjAmu9l4.
+- THE TIKTOK SHOP ROUTE IS CLOSED FROM OUTSIDE THE US as he describes it: it needs a US corporation, a US bank
+  account AND a US person willing to give the platform their ID, and he says no service can supply that person.
+  The mechanism underneath it is still worth knowing -- shop sales lift the Amazon rank and the rank is STICKY
+  after the video stops, and the lift CAPS (at 30k monthly shop revenue his Amazon side did about $12k; pushing to
+  50k moved Amazon only to about $16k, so he deliberately sits at 30k). KDP itself has no such restriction.
+  SD Tfou5kmqD8k.
+- PAID REVIEW-EXCHANGE SERVICES are GATED, not endorsed. He uses and links them, and he also says on camera "I do
+  think it's compliant. However, I don't work for Amazon... do your own due diligence." Amazon's own rule forbids
+  incentivised reviews. Treat the free route -- give the ebook away and follow up later -- as the default.
+
+### COMPLIANCE, free insurance, from SD RI1HjAmu9l4 and 6o2A-1XRC6k
+One KDP account per person, forever -- accounts are linked by payment details, tax info, device and IP, so a second
+one puts both at risk, and unlimited pen names sit under one account anyway. Disclose AI-GENERATED content at
+upload; AI-ASSISTED needs none; the offence is lying rather than using AI, and disclosure does not affect ranking.
+No trademarks anywhere in metadata. No recycled interiors. No keyword stuffing, including in the subtitle. KDP
+Select locks the EBOOK to Amazon for its term and leaves print free.
+AND THE ONE THAT MATTERS MOST HERE: RAW AI OUTPUT IS NOT COPYRIGHTABLE. AI-assisted work IS, if you transformed it.
+That is a LEGAL reason to edit an AI draft rather than a quality one, and it applies to every lane in this estate
+that ships AI-drafted work. Amazon demands verifiable proof of rights on challenge and gives five days to supply it.
+
 ## 4. Publishing (books and audiobooks)
 - Low-content books on KDP (planners, trackers, activity books) -- GATED MAC GwZHmE83sZ4: disclose AI-generated
   content (the video does); three new titles a day; quality guide applies.
