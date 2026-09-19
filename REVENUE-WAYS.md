@@ -61,6 +61,27 @@ stand on their own; the numbers do not.
 - CLIPPING AS A SERVICE: $1,000-5,000/month claimed. CARD, and he flags its own decay risk -- AI may make it cheap
   or push it in-house. PD XxWqn2QB-oM.
 
+### From @Sanji_Chien (YouTube, 13 videos read 2026-09-19)
+Source key: SC. Reclassified on arrival: this is a PRODUCTION channel, not an income channel, and every dollar
+figure on it except one is a third-party estimate of somebody else's business. Two methods survive that filter.
+- SPEC-AD OUTREACH -- CARD, and the strongest cold-start play logged so far for someone with no audience, no
+  reviews and no capital. Make the advertisement BEFORE contacting anyone, watermark it, and send one line: I made
+  this for your brand, the clean version is $500. The reason it works is structural: the prospect is looking at
+  finished work, so "you have no reviews" never gets raised. Run the first order through a marketplace gig so the
+  payment itself produces the review the next order needs. Gig keywords are the BUYER'S OUTPUT, never your
+  method -- "restaurant promo video", not the tool you used. THE ONLY CLAIM ON THAT CHANNEL WITH A SHOWN PAYMENT
+  AND A STATED COST: $500 in, about $100 of generation credits, about $400 left. SC 8LLijXzB_0I, 9XvKyoz6Nmo.
+- LOCAL-BUSINESS AD RETAINER -- CARD. Pull businesses already running ads from Meta's public Ad Library, build a
+  15-second ad from their own logo and colours, pitch $300 for four a month. Same free public signal as the Meta
+  Ads Library play logged above from another source, which is the second time it has appeared independently, so
+  it is worth treating as a real signal rather than one creator's habit. SC 9XvKyoz6Nmo.
+- EVERYTHING ELSE ON THAT CHANNEL IS NOT A PLAY: the faceless-shorts videos are affiliate funnels, one turns on a
+  limited-time free offer that may already be gone, and the ranking-video method rests on re-uploading other
+  people's clips, which he never flags as an exposure. The production craft from the same source went to the NEET
+  lane instead, in ContentRepurposing/products/neet/FORGE_INBOUND_2026-09-16.md.
+DISCLOSURE: 2 of 8 income-claiming videos include a spoken expectation reset; 1 of 8 shows proof; 0 of 13 carry a
+spoken affiliate disclosure despite affiliate links in about 9 of them.
+
 ### The method layer from the same source, which is worth more than the offer list
 - SELL BEFORE YOU BUILD. A service is a promise, so the agreement and the deposit come first and the build is funded
   by the client. Removes startup cost and, more usefully, removes the months of building that produce no customer.
