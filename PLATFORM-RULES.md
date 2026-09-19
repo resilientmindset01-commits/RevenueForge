@@ -169,6 +169,32 @@ CONSEQUENCE FOR THIS ESTATE'S OWN PUBLISHING: where the forge ever places a comm
 the TEXT, not in a platform control, so it survives the surface. That is the only version that holds when the same
 content is syndicated somewhere with no widget.
 
+## Gumroad -- Workflows are gated behind $100 earned AND a payout received (read in-product 2026-09-19)
+Verbatim from the error banner shown when publishing a workflow on a new seller account: "You cannot publish a
+workflow until you have made at least $100 in total earnings and received a payout."
+WHY IT MATTERS MORE THAN IT LOOKS: Gumroad Workflows is the obvious home for a post-purchase email sequence on a
+Gumroad product, because the buyers are already there -- no connector, no API key, no third-party automation tool.
+That reasoning is sound and the feature is simply NOT AVAILABLE to a seller with no sales. It is a
+chicken-and-egg: the sequence that would help produce the first sales cannot run until the first sales exist.
+CONSEQUENCE FOR PLANNING: a nurture sequence for a NEW Gumroad product has to live somewhere else (an email tool
+with its own list, fed by a CSV export or an integration) or wait. Decide that BEFORE writing the emails, not after.
+The workflow itself can still be built and saved as a draft while unpublishable, so the work is not wasted -- it sits
+ready and publishes the day the threshold is met.
+HOW TO EDIT A GUMROAD DESCRIPTION SO IT ACTUALLY SAVES, learned the same day after two failures. The description
+field is a tiptap/ProseMirror contenteditable, not an input. Setting its text programmatically -- the React value
+setter, or execCommand into the node -- makes the editor DISPLAY the new text while the component's state keeps the
+old one, so Save posts the old value and the public page never changes. There is no error and the editor looks right,
+which is what makes it costly. WHAT WORKS: a real click into the description area, a real ctrl+a, then real typed
+keystrokes. Confirm it took by reading the SECOND ProseMirror node on the page -- Gumroad renders a live product
+preview beside the editor, and the preview only mirrors text that reached component state. Then Save, and confirm the
+POST to /links/<id> returned 200 and the page says "Changes saved!".
+ALWAYS FINISH AT THE PUBLIC URL. A Gumroad description change is unconfirmed until the public product url is
+re-fetched and the new words are found in it; the description is emitted about nine times per page (schema.org JSON,
+description_html, the meta description, og:description and twitter:description), so one grep confirms all of them.
+READING THE CONTENT TAB: the attached file row does NOT appear in document.body.innerText. Confirming which file a
+product serves needs a SCREENSHOT. The row shows the file name and its size rounded to 0.1 KB, which is enough to
+match against a local build (91.0 KB against 93,146 bytes, 40.7 KB against 41,684 bytes).
+
 ## FTC -- final rule banning fake reviews and testimonials (ftc.gov press release, August 2024, read 2026-09-17)
 - Prohibits reviews and testimonials that "misrepresent that they are by someone who does not exist, such as
   AI-generated fake reviews, or who did not have actual experience with the business."
