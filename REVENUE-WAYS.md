@@ -851,6 +851,75 @@ NOT A PLAY, each against a rule already verified in PLATFORM-RULES.md:
   network into a spreadsheet.
 - GUARANTEEING PERFORMANCE METRICS TO A SPONSOR, and repeated scarcity claims with no published price.
 
+## 34. Added 2026-09-19 from the weekly watchlist drain (@everestchris6, 2 new X Articles, both read in full)
+- Local-site audit agency: find small trade businesses whose site cannot take a booking, score it, rebuild the
+  worst, charge monthly -- NOT A PLAY AS SHOWN (everestchris6, "how to run a local ai agency", 2026-09-18).
+  Two parts break rules whatever the offer is: the scorer "submit[s] it once with obviously fake data" into a
+  real business's contact form, which is the same unsolicited-contact-form category already logged NOT A PLAY
+  from this handle on 09-17; and the finished replacement site is built under the business's name before the
+  owner is ever contacted. Harvesting the listings through an Apify Google Maps actor is a third exposure.
+  AN HONEST VERSION EXISTS and is narrow: audit only what a visitor can see without submitting anything, show
+  the owner their own site failing, and build nothing until they ask. A cold postcard to a business address is
+  separately allowed where the fake-form submission is not.
+- Expired or hijacked domain alert as the opening: telling an owner their Google listing now lands on a parked,
+  for-sale or gambling page, with a screenshot as the proof -- GATED, and the strongest part of the method.
+  Nothing is submitted, nothing is built unasked, and the owner can check the finding in one click. His rate
+  ("about one in ten" small HVAC businesses in one metro) is UNVERIFIED and from a single city.
+- Info product built from scraped community distress: rank subreddits and public Facebook groups by comments
+  per thousand members, package the most-repeated question as a PDF, sell it on Whop against Meta ads written
+  from the posters' own words -- NOT A PLAY (everestchris6, "how to sell info products", 2026-09-17). Three
+  reasons, any one sufficient. The Apify sweeps across Reddit and across "every public group at once" are
+  automated collection that the PLATFORM-RULES entries for Reddit (read 2026-09-17) and for Meta inauthentic
+  behavior do not permit. The targeting picks the acute body-image communities on purpose, and one of the three
+  ad angles he derives from them is "the specific fear of being told you're fine when you know you're not" --
+  selling against that fear is the objection, not the PDF. And his copy rule, to use "their exact phrasing for
+  the section names", means the ad quotes distressed strangers' own posts back at them. NO HONEST VERSION IS
+  LOGGED for this niche. His product guardrails (nothing medical, no before-and-after faces, no claims about
+  how someone will look) are real and are recorded here, and they do not reach the targeting.
+- Whop Ads run through Whop's own Meta agency accounts -- CARD, unresolved. His claim is that campaigns
+  launched from the Whop dashboard sit "at meta's top tier, which means better auction position and far fewer
+  rejections than a fresh account gets", and that the Whop pixel "attributes from real payment data" so a
+  conversion counts on payment rather than on a browser event. The attribution claim is plausible and
+  checkable. The fewer-rejections claim describes borrowing an established account's standing and is worth
+  reading against Meta's own advertising terms before anything is built on it. PLATFORM-RULES carries a Whop
+  entry (docs.whop.com, read 2026-09-17) that does not cover Whop Ads -- that is the gap to close.
+- Demand measurement by comments per thousand members -- NOT A WAY, a tool, indexed below. Two findings from
+  his run are worth keeping even though the method they serve is rejected: the largest community in his set
+  ranked second from last, because "it's a hobby sub ... that's just an audience and not a market"; and a group
+  that looks alive from its member count can be one admin posting to nobody, so engagement per member is the
+  measure and membership is not.
+
+## 34. Added 2026-09-19 from @rubenhassid (65 Articles, 20 read) and @charliejhills (20 Articles, all read)
+Full coverage per the standing rule; 15 distinct methods captured, marked ASYNC or NEEDS-CALLS because that is the
+binding constraint for this operator. Every figure is the seller's own claim and none is carried -- one of the two
+gives SEVEN different audience numbers across his own properties.
+NEW LINES, all ASYNC:
+- PAID COMMUNITY AT A LOW ANNUAL PRICE, WITH LIVE SESSIONS RECORDED -- CARD. A published annual figure framed as a
+  daily cost, weekly live calls, and every call recorded with the recording promised to those who miss it. That last
+  detail is what makes it async: the live element is the marketing, the recording is the product. Dedups the paid
+  community line in section 31, kept for the recording promise, which is the mechanic that removes the calendar.
+- AN ALPHA PRODUCT WITH A REAL CHECKOUT, A DISCOUNT CODE AND A SEAT COUNT -- CARD, and the closest thing in either
+  stack to what playbook/06 asks for. Sold from a separate site rather than the main brand, at a discount, with a
+  stated number of seats. The separate site matters: it lets a price be tested without repricing the main brand.
+- SPONSORSHIPS TRANSACTED ENTIRELY BY EMAIL -- CARD, and the single best fit for a market-day schedule in this
+  batch. The bio is an intake address; rates go out by email; no call anywhere in the path. Dedups the sponsorship
+  lines in category 13, kept because the DELIVERY here is async end to end.
+- A FLEET OF SINGLE-PURPOSE FREE MICROSITES FEEDING ONE LIST -- eleven of them on one account, each a narrow free
+  asset on its own domain. Dedups the lead-magnet lines in category 3 and playbook/02, kept for the shape: many
+  narrow doors into one room, rather than one door with many rooms behind it.
+NOT CARRIED, NEEDS-CALLS, and named so they are not re-derived: B2B adoption consulting, knowledge-extraction
+consulting, client workflow builds installed on the client's own dashboard, and conference speaking. Four of the
+fifteen, and between them they are most of the revenue on both accounts. That is the honest shape of this niche: the
+money is in the calls, and the async layer is what fills them.
+NOT A PLAY, each against a rule already verified in PLATFORM-RULES.md:
+- ENGAGEMENT-GATED PRIZE DRAWS ("like, comment and repost for more chances"), one of them attached to an undisclosed
+  vendor-funded prize with email capture. Platform manipulation plus an undisclosed material connection.
+- SELLING DETECTION EVASION. Both accounts publish it -- one as a guide to bypassing AI-text detectors, the other as
+  a voiceprint technique quoting a specific detector score. There is no honest version of this line.
+- UNDISCLOSED AFFILIATE LINKS inside long-form articles, on an account whose feed posts ARE labelled. See the
+  disclosure-follows-the-widget entry in PLATFORM-RULES.
+- A MONEY-BACK GUARANTEE ATTACHED TO A FREE ARTICLE, and unattributed testimonials.
+
 ## Not ways, but tools for finding them
 - Ad-library demand research (Meta Ad Library, TikTok Creative Center) -- inside playbook/02.
 - Complaint mining and marketplace research (MicroAcquire, TrustMRR) -- VF buildercentral-idea-discovery-stack.

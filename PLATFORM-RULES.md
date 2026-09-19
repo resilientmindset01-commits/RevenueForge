@@ -151,6 +151,24 @@ ALSO CLAIMED BY SOURCE B AND NOT CHECKED: an 80 percent reach reduction for offe
 and for posts containing links, and increased reach for verified accounts. Treat all four as unverified; the link
 penalty in particular is repeated everywhere and sourced nowhere.
 
+## Disclosure follows the WIDGET, not the obligation -- a measured pattern, 2026-09-19
+Not a platform rule but a pattern in how platform rules get followed, measured across two commercial accounts and
+worth knowing before trusting any creator's disclosure record.
+THE FINDING: on one account, every paid-partnership label appeared in a POST, and every undisclosed commercial
+placement appeared in an ARTICLE. Posts have a built-in disclosure control on that platform; long-form articles do
+not. The obligation is identical in both places -- the FTC endorsement rule above turns on the material connection,
+not on the publishing surface -- but compliance tracked the presence of a button.
+CONSEQUENCES FOR READING A SOURCE: a creator's post-level disclosure record tells you almost nothing about their
+article-level record, so measure them separately. An account that looks scrupulous in its feed can carry
+undisclosed affiliate links and unlabelled vendor placements in its long-form, which is also where the persuasion
+lives.
+MEASURED RATIOS FROM THAT RUN, recorded as method rather than as judgement of anyone: labelled items against
+commercial items ran at roughly 27% on one account and 0 formal labels across 60 items on the other, the latter
+carrying a direct self-contradiction eight weeks apart about whether partnerships existed at all.
+CONSEQUENCE FOR THIS ESTATE'S OWN PUBLISHING: where the forge ever places a commercial link, the disclosure goes in
+the TEXT, not in a platform control, so it survives the surface. That is the only version that holds when the same
+content is syndicated somewhere with no widget.
+
 ## FTC -- final rule banning fake reviews and testimonials (ftc.gov press release, August 2024, read 2026-09-17)
 - Prohibits reviews and testimonials that "misrepresent that they are by someone who does not exist, such as
   AI-generated fake reviews, or who did not have actual experience with the business."
