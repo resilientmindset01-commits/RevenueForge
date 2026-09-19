@@ -34,6 +34,75 @@ in intake/pending/ unless marked VF (VentureForge/intake/).
   messages; mass cold messaging to sellers is a platform-rule risk (INFERRED).
 - LinkedIn outreach CRM run inside Claude Cowork (tooling for a service seller) -- CARD sandyleeai-linkedin-crm-cowork.
 
+### From @patrickdang (YouTube, 4 videos read 2026-09-19; drain notes in scratchpad, full write-up pending)
+Source key: PD. A B2B sales channel since 2019 that pivoted to Claude side hustles in 2026. Every client figure it
+prints is UNVERIFIED and several CONTRADICT EACH OTHER across videos -- see the note at the end. The METHODS below
+stand on their own; the numbers do not.
+- AI META ADS STUDIO: find brands in Meta's public Ads Library running FEW ads against competitors running many,
+  build replacement static ads from their own website images, pitch with the work already done. $1,000-5,000/month
+  claimed. CARD. The reason it is worth keeping is the SIGNAL: ad count is public, countable and free to check, so
+  the prospect list builds itself. PD XxWqn2QB-oM.
+- AI DESIGN STUDIO: websites, lead magnets, landing pages, not only ads. $1,000-10,000/month claimed. CARD.
+  PD XxWqn2QB-oM.
+- NEWSLETTER OPERATOR: subscribe to newsletters in niches with weak marketing, rewrite one of their bad emails as a
+  free sample, send it to the business. $1,000-5,000/month or a share of deals closed from the list. CARD. He states
+  he would buy this for his own list, which is the closest thing to demand evidence in the video. PD XxWqn2QB-oM.
+- AI SEO and ANSWER-ENGINE OPTIMISATION: the new half is ranking a brand inside AI assistants rather than search
+  engines. $1,000-3,000/month claimed. CARD, and GATED by his own warning that spamming is detected.
+  PD XxWqn2QB-oM.
+- AI GHOSTWRITING for founders on LinkedIn, X and YouTube: clone the voice from their interviews and posts, accept
+  that AI gets about 70 percent there, add the rest. $500-3,000/month claimed. CARD. PD XxWqn2QB-oM.
+- GROWTH OPERATOR for creators who have reach and sell nothing: $5,000/month base plus 10-50 percent of profit.
+  CARD. The qualifying check is free and takes seconds -- open the creator's link in bio and see whether a call or
+  a training exists. He names it the hardest of his list to start. PD XxWqn2QB-oM.
+- HUMAN UGC ROSTER ARBITRAGE: assemble about 30 micro-creators, sell the roster to brands, take a cut; creator rates
+  quoted at $25-150 a video. CARD. Note the chicken-and-egg he admits to: the roster and the brand each want the
+  other to exist first. PD XxWqn2QB-oM.
+- CLIPPING AS A SERVICE: $1,000-5,000/month claimed. CARD, and he flags its own decay risk -- AI may make it cheap
+  or push it in-house. PD XxWqn2QB-oM.
+
+### The method layer from the same source, which is worth more than the offer list
+- SELL BEFORE YOU BUILD. A service is a promise, so the agreement and the deposit come first and the build is funded
+  by the client. Removes startup cost and, more usefully, removes the months of building that produce no customer.
+  PLAYBOOK-CANDIDATE. PD gRcBu8LyfGo, DuOolRhG2UY.
+- THE OFFER TRIANGLE: what you sell, who you sell it to, what you charge -- with the rule NEVER CHARGE BY THE HOUR,
+  charge by the result. PD DuOolRhG2UY.
+- THE DEMAND-COMPETITION MATRIX, and the specific reason it matters to someone with no track record: in a market
+  with no established alternatives, the buyer has nothing to compare you against, so the absence of case studies
+  stops being the objection it is everywhere else. PD DuOolRhG2UY.
+- THE OUTREACH ARITHMETIC, the only place on this channel where the numbers are checkable by doing it: 5 posts a
+  week (quality explicitly not required at this stage, the post exists to prove you are not a bot), 200 connection
+  requests a week at 40 a working day, roughly 40 percent accepted, giving 16-18 conversations a day. Sequence is
+  list, connect, message, LOOM IF NO REPLY, conversation, call. The Loom is the follow-up, not the opener.
+  PD DuOolRhG2UY.
+- NAME THE BUYING SIGNAL BEFORE YOU SEARCH. Ask the model what observable signal indicates someone needs this, then
+  have it build and score the list against that signal. His worked example: a founder active on LinkedIn who posts
+  on YouTube and gets under 50 likes both wants the thing and is bad at it. The pair is the signal.
+  PD DuOolRhG2UY, XxWqn2QB-oM.
+- THE SALES CALL ANALYZER, the strongest idea on the channel and the one that costs nothing: record every sales
+  call, transcribe it, and extract why the person bought -- their pains, desires, blockers, and why they could not
+  do it themselves -- then write content from that. His defence of it is sound: the only way for a competitor to
+  produce the same content is to have had the same conversations. PLAYBOOK-CANDIDATE. PD o_Vkl9oXxxY.
+- DO NOT AUTOMATE WHAT YOU CANNOT DO MANUALLY, and do the process by hand once first. You cannot supervise quality
+  you cannot produce. PD o_Vkl9oXxxY.
+- JUDGE A TEACHER BY THEIR OUTPUTS, NOT THEIR DEMO. If someone claims an automated channel, go and look at what it
+  published and how it performed. He adds the part that makes it a real test: demand for AI content is high enough
+  that bad output still rises INSIDE the AI niche, so a system working there is not evidence it works anywhere.
+  Apply this to him too. PD o_Vkl9oXxxY.
+
+### NOT A PLAY, and the reason this source is capped at CARD
+THE CLIENT NUMBERS DO NOT SURVIVE COMPARISON ACROSS VIDEOS. One named client is described earning $3,000/month
+rising to $5,500 (2026-04-06), then 38,000 subscribers and over $30,000/month across "5-6 months" (2026-06-24),
+then 70,000 subscribers and "more than $50,000 per month" across "9 months" (2026-09-14). Her first contract is
+$3,000 in one video and $3,300 in another. The June video states her subscriber count as 38,000 and 36,000 minutes
+apart IN THE SAME VIDEO. The load-bearing market claim behind the whole offer -- "less than 1% of the world
+population have even downloaded Claude" -- is asserted twice with no source.
+TREAT EVERY EARNINGS FIGURE FROM THIS SOURCE AS UNUSABLE, including in our own copy. The methods are testable
+without them.
+DISCLOSURE, and it is better than most: one commercial video carries a spoken partner disclosure, and in another he
+volunteers that a named tool is NOT sponsored. The partner tool is then recommended inside six of eleven offers,
+which is heavier placement than a single mention suggests. Recorded as disclosed, with the depth noted.
+
 ## 2. Marketplace gigs (Fiverr, Upwork)
 - AI photo editing: object and background removal, restoration, upscaling, product backgrounds, clothing mockups --
   GATED MAC 9vvsJ-NA3K8 and -OThOw6B_vo (Upwork restoration). Fiverr requires work "meaningfully refined and
